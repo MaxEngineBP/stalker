@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+<!--------------------------- esc_2_12_stalker_trader ----------->
+	<string id="esc_2_12_stalker_trader_start_dialog_1">
+		<text>О, новые лица... или я тебя уже где-то видел?.. Ладно, не важно. Я местный торговец, так что если нужно будет снарягой затариться или хабар какой сбагрить, тащись ко мне. Или если есть желание подзаработать, работёнка какая-никакая у меня тоже всегда найдётся.\nЗа лагерем здесь тоже я присматриваю. Можешь чувствовать себя как дома, но особо наглеть тоже не советую. Да, и сразу предупреждаю, старайся особо не ссориться с военными; я плачу немалые деньги, чтобы они держались подальше от этого места. Так что, пока сталкеры не покидают лагерь, они в относительной безопасности.</text>
+	</string>
+	<string id="esc_2_12_stalker_trader_start_dialog_2">
+		<text>Привет, сталкер! Что тебе нужно?</text>
+	</string>
+	<string id="esc_2_12_stalker_trader_start_dialog_esc_m_trader_task_1_complete">
+		<text>Дело сделано? Молодец, вот твоя награда.</text>
+	</string>
+	<string id="esc_2_12_stalker_trader_start_dialog_esc_m_trader_task_2_complete">
+		<text>Хм, да у тебя талант, парень! Вот твоя награда, держи.</text>
+	</string>
+
+<!--------------------------- esc_2_12_stalker_fanat ----------->
+	<string id="esc_2_12_stalker_fanat_start_dialog_1">
+		<text>Здорово, сталкер! Как жизнь?</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_start_dialog_esc_m_trader_task_2">
+		<text>Тебе нужно что-то?</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_about_esc_m_trader_task_2_0">
+		<text>На АТП засели бандиты. Сидорович сказал, что ты можешь помочь разобраться с ними.</text>
+	</string>
+	<string id="esc_2_12_stalker_fanat_about_esc_m_trader_task_2_1">
+		<text>Конечно, я помогу. Не хочу, чтобы они угрожали зелени.</text>
+	</string>
+
+</string_table>

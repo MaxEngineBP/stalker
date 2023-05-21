@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+<!-- x-16 -->
+
+	<string id="x16_door_mlr_task_1_name_1">
+		<text>Найти способ открыть дверь</text>
+	</string>	
+	<string id="x16_door_mlr_task_1_name_2">
+		<text>Запустить механизм открытия двери</text>
+	</string>	
+	<string id="x16_door_mlr_task_1_descr">
+		<text>Необходимо попасть в помещения, которые находятся за этой решётчатой металлической дверью. В этом мне поможет старая резервная подстанция на техническом уровне.</text>
+	</string>	
+	<string id="x16_door_task_restr_3_tutorial_tip">
+		<text>Активировать резервный генератор ($$ACTION_USE$$)</text>
+	</string>
+	
+</string_table>

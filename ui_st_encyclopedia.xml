@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<!-- PDA -->
+	<string id="pda_btn_encyclopedia">
+		<text>Справочник</text>
+	</string>
+	
+	<string id="pda_btn_encyclopedia_hint">
+		<text>Прочитать</text>
+	</string>
+	
+	<string id="pda_btn_encyclopedia_title">
+		<text>Справочник сталкера</text>
+	</string>	
+	
+	<!-- Interface components -->
+	<string id="pda_encyclopedia_title">
+		<text>Справочник сталкера</text>
+	</string>
+	
+	<string id="pda_encyclopedia_image_checkbox">
+		<text>Изображение над текстом</text>
+	</string>
+	
+	<string id="pda_encyclopedia_message_checkbox">
+		<text>Сообщения</text>
+	</string>
+	
+	<!-- Messages -->
+	<string id="pda_encyclopedia_notify">
+		<text>Добавлена статья: %s</text>
+	</string>
+	
+	<!-- Locked articles -->
+	<string id="pda_encyclopedia_locked">
+		<text>Нет информации</text>
+	</string>
+	
+	<string id="pda_encyclopedia_locked_text">
+		<text>
+			Вы ещё не разблокировали эту статью.\n
+			\n Статьи можно разблокировать:\n
+			\n• посещая новые локации;
+			\n• загружая данные с найденных карт памяти;
+			\n• добывая охотничьи трофеи;
+			\n• взаимодействуя со сталкерами;
+		</text>
+	</string>
+	
+</string_table>

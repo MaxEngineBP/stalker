@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	
+	<string id="st_achievement_executive_name">
+		<text>Исполнительный</text>
+	</string>
+	<string id="st_achievement_executive_hint">
+		<text>Некоторые торговцы, механики, медики и простые сталкеры относятся к вам как к ответственному и исполнительному сталкеру, они предоставили вам скидки на свои услуги.</text>
+	</string>
+	<string id="st_achievement_executive_descr">
+		<text>Желание взяться практически за любую работу зарекомендовало вас среди сталкеров с лучшей стороны.</text>
+	</string>
+	<string id="st_achievement_executive_has">
+		<text>Получено достижение «Исполнительный»</text>
+	</string>		
+	
+	<string id="st_achievement_hunter_name">
+		<text>Охотник</text>
+	</string>
+	<string id="st_achievement_hunter_hint">
+		<text>Став более аккуратным вы увеличиваете свои шансы добыть больше трофеев с того или иного мутанта. К тому же вы больше не облучаетесь радиацией при взаимодействии с мутантами Зоны и можете извлекать части их тел не только ножами, а любым оружием ближнего боя, которое имеет лезвие.</text>
+	</string>
+	<string id="st_achievement_hunter_descr">
+		<text>В совершенстве овладев навыком разделки мутантов теперь это не представляет для вас какие-либо проблемы.</text>
+	</string>
+	<string id="st_achievement_hunter_has">
+		<text>Получено достижение «Охотник»</text>
+	</string>		
+	
+	<string id="st_achievement_shooter_name">
+		<text>Стрелок</text>
+	</string>
+	<string id="st_achievement_shooter_hint">
+		<text>После овладения навыками стрельбы из огнестрельного оружия повысилось удобство его применения, теперь вы лучше контролируете оружие в руках.</text>
+	</string>
+	<string id="st_achievement_shooter_descr">
+		<text>Вы смогли отточить свои навыки владения оружием в реальных боевых ситуациях до приемлемого уровня.</text>
+	</string>
+	<string id="st_achievement_shooter_has">
+		<text>Получено достижение «Стрелок»</text>
+	</string>	
+	
+	<string id="st_achievement_main_six_name">
+		<text>История СССР</text>
+	</string>
+	<string id="st_achievement_main_six_hint">
+		<text>Группировка "Долг" теперь лучше к вам относится.</text>
+	</string>
+	<string id="st_achievement_main_six_descr">
+		<text>Вы отыскали шесть портретов вождей отечественного пролетариата. Конечно их было несколько больше, но едва ли они смогли запомниться в массовом народном сознании своими выдающимися заслугами.</text>
+	</string>
+	<string id="st_achievement_main_six_has">
+		<text>Получено достижение «История СССР»</text>
+	</string>		
+	
+	<string id="st_achievement_master_of_arena_name">
+		<text>Мастер Арены</text>
+	</string>
+	<string id="st_achievement_master_of_arena_hint">
+		<text>Вы снискали настояющую славу и уважение среди нейтральных сталкеров, Арни решил оставить вам подарок в своём ящике в честь этого события.</text>
+	</string>
+	<string id="st_achievement_master_of_arena_descr">
+		<text>Вы прошли через боль, кровь и трупы оставленных вами оппонентов и доказали не только окружающим, но и самому себе то, что вы лучший действующий боец в Зоне.</text>
+	</string>
+	<string id="st_achievement_master_of_arena_has">
+		<text>Получено достижение «Мастер Арены»</text>
+	</string>	
+	
+	<string id="st_achievement_cheater_name">
+		<text>Читер</text>
+	</string>
+	<string id="st_achievement_cheater_hint">
+		<text>Васян уже заведомо предусмотрел то, что вы собирались сделать. Не надо так делать!</text>
+	</string>
+	<string id="st_achievement_cheater_descr">
+		<text>Никаких последствий получение данного достижения не несёт.</text>
+	</string>
+	<string id="st_achievement_cheater_has">
+		<text>Получено достижение «Читер»</text>
+	</string>
+	
+</string_table>

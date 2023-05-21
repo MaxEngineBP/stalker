@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+    <string id="dm_dialog_add_trade">
+        <text>Я слышал, с тобой можно вести дела. Как насчёт торговли?</text>
+    </string>
+    <string id="dm_dialog_add_repair">
+        <text>Ходят слухи, что ты мастер на все руки. Можешь починить кое-что?</text>
+    </string>
+	<string id="dm_dialog_character_history">
+		<text>Расскажи о себе.</text>
+    </string>
+<!-- General -->
+	<string id="actor_break_dialog_0">
+		<text>До встречи.</text>
+	</string>
+	<string id="actor_break_dialog_1">
+		<text>Увидимся!</text>
+	</string>
+	<string id="actor_break_dialog_2">
+		<text>Пока.</text>
+	</string>
+	<string id="actor_break_dialog_3">
+		<text>Бывай!</text>
+	</string>
+<!-- Alundaio -->
+	<string id="axr_phrase_npc_start_wounded">
+		<text>Братан... выручай!..</text>
+	</string>
+	<string id="axr_phrase_actor_has_medkit">
+		<text>Погоди, сейчас помогу.</text>
+	</string>
+	<string id="axr_phrase_actor_dont_has_medkit">
+		<text>Прости, ничем не могу помочь.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_trade">
+		<text>Я насчёт обмена...</text>
+	</string>
+	<string id="dm_dialog_become_companion_greeting">
+		<text>По тебе видно, что ты здесь не просто так шляешься.</text>
+	</string>
+	<string id="dm_dialog_companion_I_have_a_question">
+		<text>Правда? Может быть... Можно вопрос?</text>
+	</string>
+	<string id="dm_dialog_companion_question_answer_1">
+		<text>Какой?</text>
+	</string>
+	<string id="dm_dialog_companion_question_answer_2">
+		<text>Спроси кого-нибудь другого.</text>
+	</string>
+	<string id="dm_dialog_actor_answer_1">
+		<text>Интересно...</text>
+	</string>
+	<string id="dm_dialog_actor_answer_2">
+		<text>Эмм... Прости, но мне пора.</text>
+	</string>
+	<string id="dm_dialog_companion_can_i_come_with_1">
+		<text>Давай бродить по Зоне вместе. Что скажешь?</text>
+	</string>
+	<string id="dm_dialog_companion_can_we_come_with_2">
+		<text>Нам с ребятами не помешает лишний ствол. Присоединишься?</text>
+	</string>
+	<string id="dm_dialog_companion_can_i_come_with_2">
+		<text>Мне нужен напарник. Поможешь?</text>
+	</string>
+	<string id="dm_dialog_companion_actor_reply_to_join_1">
+		<text>Ладно, только гляди куда стреляешь.</text>
+	</string>
+	<string id="dm_dialog_companion_actor_reply_to_join_2">
+		<text>Хорошо. Но если скопытишься, снарягу себе возьму.</text>
+	</string>
+	<string id="dm_dialog_companion_actor_reply_to_join_3">
+		<text>Нет, прости.</text>
+	</string>
+	<string id="dm_dialog_companion_actor_reply_to_join_4">
+		<text>Потеряйся!</text>
+	</string>
+	<string id="dm_dialog_companion_final_words_good_alone_1">
+		<text>Спасибо, братан. Ну, не буду мешать.</text>
+	</string>
+	<string id="dm_dialog_companion_final_words_good_alone_2">
+		<text>Отлично, мне как раз нужна помощь.</text>
+	</string>
+	<string id="dm_dialog_companion_final_words_good_alone_3">
+		<text>Ну и хрен с тобой.</text>
+	</string>
+	<string id="dm_dialog_companion_final_words_bad_alone_1">
+		<text>Ладно, всё равно спасибо...</text>
+	</string>
+	<string id="dm_dialog_companion_final_words_bad_alone_2">
+		<text>Эй, мужик! Да что с тобой такое?</text>
+	</string>
+	<string id="dm_dialog_companion_final_words_good_1">
+		<text>Рад слышать. Ребята, идем!</text>
+	</string>
+	<string id="dm_dialog_companion_final_words_good_2">
+		<text>Ладно. Парни, этот сталкер идет с нами. Двигайте за ним.</text>
+	</string>
+	<string id="dm_dialog_companion_final_words_good_3">
+		<text>Хорошо, не теряем ни минуты!</text>
+	</string>
+	<string id="dm_dialog_companion_final_words_bad_1">
+		<text>Ну и похер.</text>
+	</string>
+	<string id="dm_dialog_companion_final_words_bad_2">
+		<text>Вали его!</text>
+	</string>
+	<string id="axr_phrase_companion_ask_for_command">
+		<text>Чего тебе?</text>
+	</string>
+	<string id="axr_phrase_actor_give_command">
+		<text>[Отдать команду]</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_combat">
+		<text>Давай обсудим тактику...</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_combat_type_camper">
+		<text>Впредь будь осторожней в бою.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_combat_type_default">
+		<text>Делай всё как обычно.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_combat_type_monolith">
+		<text>Покажем врагам истинную силу Монолита!</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_stay_close">
+		<text>Держись поближе и прикрывай меня.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_keep_distance">
+		<text>Соблюдай определенную дистанцию.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_stealth">
+		<text>Тсс... действуем тихо и не высовываемся.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_stop_stealth">
+		<text>Хорошо, продолжаем как обычно.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_relax">
+		<text>Отдохнем пока. Я скажу когда нужно идти.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_relax_over">
+		<text>Ладно, пора идти.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_leave">
+		<text>Дальше я пойду один.</text>
+	</string>
+	<string id="axr_phrase_companion_are_you_sure">
+		<text>Уверен?</text>
+	</string>
+	<string id="axr_phrase_actor_acknowledge_1">
+		<text>Да.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_wait">
+		<text>Жди здесь и охраняй точку.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_follow">
+		<text>Двигай за мной.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_ignore_combat">
+		<text>Пока что избегай стрельбы.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_dont_ignore_combat">
+		<text>Увидишь врага - сразу атакуй.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_ignore_combat_but_help_actor">
+		<text>Не открывай огонь первым.</text>
+	</string>
+	<string id="axr_phrase_companion_acknowledge_1">
+		<text>Ты понял.</text>
+	</string>
+	<string id="axr_phrase_companion_acknowledge_2">
+		<text>Хорошо.</text>
+	</string>
+	<string id="axr_phrase_companion_acknowledge_3">
+		<text>Ага, что нужно делать?</text>
+	</string>
+	<string id="axr_phrase_companion_goodbye_1">
+		<text>Спасибо за компанию. Увидимся!</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_nevermind">
+		<text>Забудь.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_hide_in_cover">
+		<text>Бегом, ищи укрытие!</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_patrol_menu">
+		<text>Нужно чтоб ты патрулировал это место.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_start_patrol">
+		<text>Начинай патрулирование.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_stop_patrol">
+		<text>Прекрати патрулирование.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_patrol_remove_waypoints">
+		<text>Забудь старый маршрут.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_patrol_add_waypoints">
+		<text>Добавь это место в патрульный маршрут.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_gather_items">
+		<text>Бери любую снарягу, что найдешь. Она может пригодиться.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_loot_corpses">
+		<text>Проверь трупы, на них может быть что-то полезное.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_gather_items_stop">
+		<text>Не трать время на подбирание барахла.</text>
+	</string>
+	<string id="axr_phrase_actor_give_command_loot_corpses_stop">
+		<text>Игнорируй трупы.</text>
+	</string>
+	<string id="axr_phrase_friend_companion_ask_join">
+		<text>Слушай, как насчет действовать в команде? Вдвоем-то тут всяко безопаснее.</text>
+	</string>
+	<string id="axr_phrase_friend_companion_answer_join">
+		<text>Звучит неплохо, пошли.</text>
+	</string>
+	<string id="axr_phrase_friend_companion_ask_join_hostage">
+		<text>Может, поможешь спасти твоего друга?</text>
+	</string>
+	<string id="axr_phrase_friend_companion_answer_join_hostage">
+		<text>Да, ему нужна наша помощь. Идём.</text>
+	</string>
+
+
+</string_table>

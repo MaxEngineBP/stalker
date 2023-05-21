@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+<!-- Периметр -->
+	<string id="ui_st_perimeter_firstoutpost">
+		<text>Пересечение блок-поста (Периметр)</text>
+	</string>	
+	<string id="ui_st_perimeter_mil_main_outpost">
+		<text>Блок-пост (Периметр)</text>
+	</string>
+	<string id="ui_st_perimeter_rookie_village">
+		<text>Деревня новичков (Периметр)</text>
+	</string>
+	
+<!-- Свалка -->	
+	<string id="ui_st_garbage_main_hangar">
+		<text>Депо (Свалка)</text>
+	</string>	
+	<string id="ui_st_garbage_abandoned_building">
+		<text>Блок-пост (Свалка)</text>
+	</string>
+	
+<!-- Агропром -->	
+	<string id="ui_st_agroprom_hideway">
+		<text>Окрестности НИИ (Агромпром)</text>
+	</string>	
+
+<!-- Тёмная долина -->	
+	<string id="ui_st_darkvalley_factory">
+		<text>Заводской комплекс (Тёмная долина)</text>
+	</string>
+
+<!-- Росток -->
+	<string id="ui_st_rostok_main_base">
+		<text>Нейтральная территория (Росток)</text>
+	</string>
+
+<!-- Армейские склады -->
+	<string id="ui_st_military_main_base">
+		<text>База «Долга» (Армейские склады)</text>
+	</string>
+
+<!-- Янтарь -->
+	<string id="ui_st_yantar_sci_bunker">
+		<text>Научный бункер (Янтарь)</text>
+	</string>
+	<string id="ui_st_yantar_factory">
+		<text>Заводской комплекс (Янтарь)</text>
+	</string>
+
+<!-- Радар -->
+	<string id="ui_st_radar_main_antenna">
+		<text>Выжигатель Мозгов (Радар)</text>
+	</string>
+	<string id="ui_st_radar_forest">
+		<text>Ржавый лес (Радар)</text>
+	</string>
+
+<!-- ЧАЭС -->
+	<string id="ui_st_aes_main_base">
+		<text>Главная база (ЧАЭС)</text>
+	</string>
+
+<!-- Припять -->
+	<string id="ui_st_soc_pripyat_garages">
+		<text>Гаражи (Припять)</text>
+	</string>
+	<string id="ui_st_soc_pripyat_cinema">
+		<text>ДК «Энергетик» (Припять)</text>
+	</string>
+
+<!-- Окраины Припяти -->
+	<string id="ui_st_pripyat_cop_laundry">
+		<text>Прачечная (окраины Припяти)</text>
+	</string>
+	<string id="ui_st_pripyat_cop_flat">
+		<text>Многоэтажный дом (окраины Припяти)</text>
+	</string>	
+	<string id="ui_st_pripyat_cop_river_port">
+		<text>Речной порт (окраины Припяти)</text>
+	</string>
+	
+<!-- Затон -->
+	<string id="ui_st_zaton_skadovsk">
+		<text>Скадовск (Затон)</text>
+	</string>
+	<string id="ui_st_zaton_stancia">
+		<text>Станция переработки (Затон)</text>
+	</string>
+	<string id="ui_st_zaton_abandoned_sawmill">
+		<text>Лесопилка (Затон)</text>
+	</string>
+
+<!-- Юпитер -->
+	<string id="ui_st_jupiter_yanov_station">
+		<text>Станция «Янов» (Юпитер)</text>
+	</string>
+	<string id="ui_st_jupiter_container_warehouse">
+		<text>Склад контейнеров (Юпитер)</text>
+	</string>
+	<string id="ui_st_jupiter_sci_bunker">
+		<text>Научный бункер (Юпитер)</text>
+	</string>
+	<string id="ui_st_jupiter_kopachy_village">
+		<text>Село «Копачи» (Юпитер)</text>
+	</string>
+	
+</string_table>
