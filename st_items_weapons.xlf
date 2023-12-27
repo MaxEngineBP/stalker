@@ -1,0 +1,3993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ Loco xml export: XLIFF 2.0
+ Project: st_items_weapons.xml conversion
+ Release: Working copy
+ Locale: ru-RU, Russian (Russia)
+ Exported by: Unregistered user
+ Exported at: Wed, 27 Dec 2023 10:47:52 +0200
+-->
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:2.0 http://docs.oasis-open.org/xliff/xliff-core/v2.0/os/schemas/xliff_core_2.0.xsd" srcLang="en-US" trgLang="ru-RU">
+  <file original="st_items_weapons.xml" id="f1">
+    <notes>
+      <note category="tool-name">Loco</note>
+      <note category="tool-version">1.0.28 20231222-1</note>
+    </notes>
+    <unit id="loco:$1" name="st_wpn_mine_name">
+      <segment state="translated">
+        <source>st_wpn_mine_name</source>
+        <target>
+        <text>Butterfly mine</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$2" name="st_wpn_mine_descr">
+      <segment state="translated">
+        <source>st_wpn_mine_descr</source>
+        <target>
+        <text>The PFM-1 is an anti-personnel mine which became infamous for causing large numbers of civilian casualties. Often referred to as a butterfly mine due to its unusual shape.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$3" name="st_wpn_saiga">
+      <segment state="translated">
+        <source>st_wpn_saiga</source>
+        <target>
+        <text>Saiga 12K</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$4" name="st_wpn_saiga_descr">
+      <segment state="translated">
+        <source>st_wpn_saiga_descr</source>
+        <target>
+        <text>The Saiga 12 is a 12-gauge semi-automatic shotgun available in a wide range of configurations, visually patterned after the Kalashnikov series of assault rifles. Like the Kalashnikov rifle, it is a rotating bolt, gas-operated gun that feeds from an 8 round magazine.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$5" name="st_wpn_vepr12">
+      <segment state="translated">
+        <source>st_wpn_vepr12</source>
+        <target>
+        <text>Vepr-12</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$6" name="st_wpn_vepr12_descr">
+      <segment state="translated">
+        <source>st_wpn_vepr12_descr</source>
+        <target>
+        <text>The Vepr-12 is a multipurpose semi-automatic shotgun, created by Molot-Oruzhie Ltd. It is patterned after the original Kalashnikov rifle, and built on the heavy RPK light machine gun receiver. Like the Kalashnikov rifle, it is a rotating bolt, gas-operated gun that feeds from an 10 round magazine.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$7" name="st_wpn_saiga_nimble">
+      <segment state="translated">
+        <source>st_wpn_saiga_nimble</source>
+        <target>
+        <text>Stinger</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$8" name="st_wpn_saiga_nimble_descr">
+      <segment state="translated">
+        <source>st_wpn_saiga_nimble_descr</source>
+        <target>
+        <text>Fully automatic Saiga-12K available in a wide range of configurations, visually patterned after the Kalashnikov series of assault rifles. Like the Kalashnikov rifle, it is a rotating bolt, gas operated gun that feeds from a 12 round magazine.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$9" name="st_wpn_remington870">
+      <segment state="translated">
+        <source>st_wpn_remington870</source>
+        <target>
+        <text>Remington 870</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$10" name="st_wpn_remington870_descr">
+      <segment state="translated">
+        <source>st_wpn_remington870_descr</source>
+        <target>
+        <text>The Remington Model 870 is a pump-action shotgun manufactured by Remington Arms Company, LLC. It is widely used by the public for sport shooting, hunting, and self-defense. It is also commonly used by law enforcement and military organizations worldwide.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$11" name="st_wpn_mossberg">
+      <segment state="translated">
+        <source>st_wpn_mossberg</source>
+        <target>
+        <text>Mossberg 590</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$12" name="st_wpn_mossberg_descr">
+      <segment state="translated">
+        <source>st_wpn_mossberg_descr</source>
+        <target>
+        <text>Mossberg 590 is a series of pump-action shotguns manufactured by O.F. Mossberg &amp; Sons.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$13" name="st_wpn_sv98">
+      <segment state="translated">
+        <source>st_wpn_sv98</source>
+        <target>
+        <text>SV-98</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$14" name="st_wpn_sv98_descr">
+      <segment state="translated">
+        <source>st_wpn_sv98_descr</source>
+        <target>
+        <text>The SV-98 is a Russian bolt action sniper rifle designed by Vladimir Stronskiy. In 2003 special operations troops were armed with the 7.62 mm 6S11 sniper system comprising the SV-98 sniper rifle and 7N14 sniper enhanced penetration round. The rifle has been used in combat since operations in Chechnya.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$15" name="st_wpn_vks">
+      <segment state="translated">
+        <source>st_wpn_vks</source>
+        <target>
+        <text>VKS Vykhlop</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$16" name="st_wpn_vks_descr">
+      <segment state="translated">
+        <source>st_wpn_vks_descr</source>
+        <target>
+        <text>The VKS is a Russian bullpup, straight-pull bolt-action sniper rifle chambered for the 12.7x55 mm subsonic round. The weapon is also known by the name VSSK and the additional name Vykhlop. It was developed in 2002 for special forces units of FSB.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$17" name="st_wpn_vsk94">
+      <segment state="translated">
+        <source>st_wpn_vsk94</source>
+        <target>
+        <text>VSK 94</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$18" name="st_wpn_vsk94_descr">
+      <segment state="translated">
+        <source>st_wpn_vsk94_descr</source>
+        <target>
+        <text>The VSK-94 is a 9 mm suppressed sniper rifle developed by the Russia KBP Instrument Design Bureau as a low-cost alternative to the VSS rifle. The rifle is based on the 9A-91 assault rifle. The VSK-94 was designed to accurately engage unarmored point targets at ranges up to 400 m.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$19" name="st_wpn_sks">
+      <segment state="translated">
+        <source>st_wpn_sks</source>
+        <target>
+        <text>SKS</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$20" name="st_wpn_sks_descr">
+      <segment state="translated">
+        <source>st_wpn_sks_descr</source>
+        <target>
+        <text>The SKS is a surplus semi-automatic carbine chambered in the 7.62x39 round. The Zone's gunsmiths have modified this rifle to use a detachable 20 round magazine. Increasing it's fire power and reducing reload time.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$21" name="st_wpn_ak12_762">
+      <segment state="translated">
+        <source>st_wpn_ak12_762</source>
+        <target>
+        <text>AK-12 M43</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$22" name="st_wpn_ak12_762_descr">
+      <segment state="translated">
+        <source>st_wpn_ak12_762_descr</source>
+        <target>
+        <text>The AK12 is the next generation model of the 7.62x39 AK series. The rifle comes standard with pictanny rails, an adjustable telescoping stock and the rear sight has been moved to the back of the receiver. The rifle has a new muzzle brake and improved rifling, making it more accurate than the other AK assault rifles. It has gained popularity in the Duty faction.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$23" name="st_wpn_ak12">
+      <segment state="translated">
+        <source>st_wpn_ak12</source>
+        <target>
+        <text>AK-12</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$24" name="st_wpn_ak12_descr">
+      <segment state="translated">
+        <source>st_wpn_ak12_descr</source>
+        <target>
+        <text>The AK12 is the next generation model of the 5.45x39 AK series. The rifle comes standard with pictanny rails, an adjustable telescoping stock and the rear sight has been moved to the back of the receiver. The rifle has a new muzzle brake and improved rifling, making it more accurate than the other AK assault rifles. It has gained popularity in the Duty faction.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$25" name="st_wpn_aek971">
+      <segment state="translated">
+        <source>st_wpn_aek971</source>
+        <target>
+        <text>AEK-971</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$26" name="st_wpn_aek971_descr">
+      <segment state="translated">
+        <source>st_wpn_aek971_descr</source>
+        <target>
+        <text>The AEK-971 5.45x39 assault rifle based on previous AK rifles in internal design and layout, but is also equipped with a recoil-balancing mechanism by way of a counter-weight that negates the impulse of the gas piston and bolt carrier, resulting in more controllable automatic fire.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$27" name="st_wpn_aek973">
+      <segment state="translated">
+        <source>st_wpn_aek973</source>
+        <target>
+        <text>AEK-973</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$28" name="st_wpn_aek973_descr">
+      <segment state="translated">
+        <source>st_wpn_aek973_descr</source>
+        <target>
+        <text>The AEK-973 7.62x39 assault rifle is based on previous AK rifles in internal design and layout, but is also equipped with a recoil-balancing mechanism by way of a counter-weight that negates the impulse of the gas piston and bolt carrier, resulting in more controllable automatic fire.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$29" name="st_wpn_9a91">
+      <segment state="translated">
+        <source>st_wpn_9a91</source>
+        <target>
+        <text>9A-91</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$30" name="st_wpn_9a91_descr">
+      <segment state="translated">
+        <source>st_wpn_9a91_descr</source>
+        <target>
+        <text>The 9A-91 is a carbine assault rifle currently in use with Russian police forces. It is a gas operated, rotating bolt weapon, which utilizes a long stroke gas piston, located above the barrel, and a rotating bolt with 4 lugs. The receiver is made from steel stampings; the forend and pistol grip are made from polymer. The steel buttstock folds up and above the receiver when not in use. The charging handle is welded to the right side of bolt carrier. The safety / fire selector lever is located at the left side of the receiver, above the trigger guard, and allows for semi- and full-automatic fire. The flip-up rear sight has settings for 100 and 200 meters range, but the relatively short sight base and steep trajectory of the subsonic bullet effectively restricts the 9A91 to ranges of about 100 meters.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$31" name="st_wpn_sr3m">
+      <segment state="translated">
+        <source>st_wpn_sr3m</source>
+        <target>
+        <text>SR-3M</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$32" name="st_wpn_sr3m_descr">
+      <segment state="translated">
+        <source>st_wpn_sr3m_descr</source>
+        <target>
+        <text>The SR-3 Vikhr is a Russian compact fully automatic assault rifle chambered for the 9x39mm subsonic round. It was developed by CNIITochMash (Central Institute for Precision Machine Building) in the early 1990s. It is based on the AS Val silenced assault rifle but lacks an integral suppressor and has a new designed folding stock and cocking handle for ease of concealed carry.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$33" name="st_wpn_akm">
+      <segment state="translated">
+        <source>st_wpn_akm</source>
+        <target>
+        <text>AKM</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$34" name="st_wpn_akm_descr">
+      <segment state="translated">
+        <source>st_wpn_akm_descr</source>
+        <target>
+        <text>The AKM is an upgraded version of the AK-47 rifle and is the most common variant of the entire AK series of firearms. It has found widespread use with most member states of the former Warsaw Pact. A favorite weapon amoung experienced Stalkers due to its power and reliability.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$35" name="st_wpn_akms">
+      <segment state="translated">
+        <source>st_wpn_akms</source>
+        <target>
+        <text>AKMS</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$36" name="st_wpn_akms_descr">
+      <segment state="translated">
+        <source>st_wpn_akms_descr</source>
+        <target>
+        <text>The main variant of the AKM is the AKMS, which was equipped with an under folding metal shoulder stock in place of the fixed wooden stock. A favorite weapon amoung experienced Stalkers due to its power, reliability and more compact size.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$37" name="st_wpn_aks47">
+      <segment state="translated">
+        <source>st_wpn_aks47</source>
+        <target>
+        <text>AKS-47</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$38" name="st_wpn_aks47_descr">
+      <segment state="translated">
+        <source>st_wpn_aks47_descr</source>
+        <target>
+        <text>The main variant of the AK-47 was the AKS-47, which was equipped with an under folding metal shoulder stock in place of the fixed wooden stock. It was designed for use inside armored vehicles and by paratroopers. The lighter and more compact size has made it popular amoung experienced bandits.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$39" name="st_wpn_ak47">
+      <segment state="translated">
+        <source>st_wpn_ak47</source>
+        <target>
+        <text>AK-47</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$40" name="st_wpn_ak47_descr">
+      <segment state="translated">
+        <source>st_wpn_ak47_descr</source>
+        <target>
+        <text>The AK-47 is a selective-fire, gas-operated 7.62x39 assault rifle, first developed in the Soviet Union by Mikhail Kalashnikov. It is also known as Kalashnikov, AK, or in Russian slang, Kalash. Bandits commonly carry this weapon for it's low cost and reliability.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$41" name="st_wpn_vz65">
+      <segment state="translated">
+        <source>st_wpn_vz65</source>
+        <target>
+        <text>vz.65 Skorpion</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$42" name="st_wpn_vz65_descr">
+      <segment state="translated">
+        <source>st_wpn_vz65_descr</source>
+        <target>
+        <text>The vz.65 is a Czechoslovakian 9x18mm submachine gun developed in 1959 by Miroslav Rybar. Although it was developed for use with security forces and special forces, the weapon was also accepted into service with the Czechoslovak Army, as a personal sidearm for lower-ranking army staff, vehicle drivers, armored vehicle personnel and special forces. Currently the weapon is in use with the armed forces of several countries as a sidearm.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$43" name="st_wpn_bizon">
+      <segment state="translated">
+        <source>st_wpn_bizon</source>
+        <target>
+        <text>Bizon-2-03</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$44" name="st_wpn_bizon_descr">
+      <segment state="translated">
+        <source>st_wpn_bizon_descr</source>
+        <target>
+        <text>The Bizon-2-03 is a 9x18 Russian submachine gun developed in the early 1990s at Izhmash. The Bizon was developed at the request of the Ministry of Internal Affairs and is primarily intended for counter-terrorist and law enforcement units that usually need fast and accurate fire at close ranges.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$45" name="st_wpn_rpk">
+      <segment state="translated">
+        <source>st_wpn_rpk</source>
+        <target>
+        <text>RPK</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$46" name="st_wpn_rpk_descr">
+      <segment state="translated">
+        <source>st_wpn_rpk_descr</source>
+        <target>
+        <text>The RPK is a 7.62x39mm light machine gun of Soviet design, developed by Mikhail Kalashnikov in the late 1950s, parallel with the AKM assault rifle. It was created as part of a program designed to standardize the small arms inventory of the Red Army, where it replaced the 7.62x39mm RPD light machine gun. The RPK continues to be used by the armed forces of countries of the former Soviet Union and certain African and Asian nations.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$47" name="st_wpn_rpk74">
+      <segment state="translated">
+        <source>st_wpn_rpk74</source>
+        <target>
+        <text>RPK-74</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$48" name="st_wpn_rpk74_descr">
+      <segment state="translated">
+        <source>st_wpn_rpk74_descr</source>
+        <target>
+        <text>The RPK-74 is a 5.45x39mm light machine gun of Soviet design, developed by Mikhail Kalashnikov in the late 1950s, parallel with the AKM assault rifle. It was created as part of a program designed to standardize the small arms inventory of the Red Army, where it replaced the 7.62x39mm RPD light machine gun. The RPK continues to be used by the armed forces of countries of the former Soviet Union and certain African and Asian nations.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$49" name="st_wpn_mp412">
+      <segment state="translated">
+        <source>st_wpn_mp412</source>
+        <target>
+        <text>MP-412 REX</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$50" name="st_wpn_mp412_descr">
+      <segment state="translated">
+        <source>st_wpn_mp412_descr</source>
+        <target>
+        <text>The MP412 REX is a Russian double-action .357 magnum revolver with a break-action chamber and an automatic ejector. It was designed for export (REX, Revolver for EXport), but never put into full production due to lack of a market. The revolver was designed by IZHMECH, the state-owned Russian Izhevsk Mechanical Plant, which also designed and produced the Makarov PM semi-automatic pistol. </text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$51" name="st_wpn_tt33">
+      <segment state="translated">
+        <source>st_wpn_tt33</source>
+        <target>
+        <text>TT-33</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$52" name="st_wpn_tt33_2">
+      <segment state="translated">
+        <source>st_wpn_tt33_2</source>
+        <target>
+        <text>TT-33</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$53" name="st_wpn_tt33_descr">
+      <segment state="translated">
+        <source>st_wpn_tt33_descr</source>
+        <target>
+        <text>The TT-33 is a Russian 7.62x25 pistol. It was developed in the early 1930s by Fedor Tokarev as a service pistol for the Soviet military to replace the Nagant M1895 revolver.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$54" name="st_wpn_tt33_2_descr">
+      <segment state="translated">
+        <source>st_wpn_tt33_2_descr</source>
+        <target>
+        <text>Post 1947 production TT-33 pistol. It was developed in the early 1930s by Fedor Tokarev as a service pistol for the Soviet military to replace the Nagant M1895 revolver.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$55" name="st_wpn_ots33_descr">
+      <segment state="translated">
+        <source>st_wpn_ots33_descr</source>
+        <target>
+        <text>The OTs-33 Pernach is a Russian 9x18 machine pistol, derived from the 5.45 mm OTs-23 Drotik machine pistol. Designed to replace the Stechkin APS in various special OMON units within the Russian police, the Russian Ministry of Internal Affairs (MVD) and other paramilitary units. The OTs-33 was developed in 1995 by Igor Stechkin at the TsKIB SOO design bureau, and it went into limited production at the KBP Instrument Design Bureau.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$56" name="st_wpn_ots33">
+      <segment state="translated">
+        <source>st_wpn_ots33</source>
+        <target>
+        <text>OTs-33 Pernach</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$57" name="st_wpn_cz52">
+      <segment state="translated">
+        <source>st_wpn_cz52</source>
+        <target>
+        <text>CZ 52</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$58" name="st_wpn_cz52_descr">
+      <segment state="translated">
+        <source>st_wpn_cz52_descr</source>
+        <target>
+        <text>The CZ 52 is a surplus 7.62x25 pistol designed in the early 1950s for the Czechoslovakian military. The lighter bullet and longer casing give this pistol a higher muzzle velocity then most pistols. Technicians are not interested in upgrading surplus weapons.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$59" name="st_wpn_cz40">
+      <segment state="translated">
+        <source>st_wpn_cz40</source>
+        <target>
+        <text>CZ 75 .40 S&amp;W</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$60" name="st_wpn_cz40_descr">
+      <segment state="translated">
+        <source>st_wpn_cz40_descr</source>
+        <target>
+        <text>The CZ 75 is a pistol made by CZUB in the Czech Republic. First introduced in 1975, it is one of the original "wonder nines" featuring a staggered-column magazine, all-steel construction, and a hammer forged barrel. It has a good reputation for quality and versatility.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$61" name="st_wpn_cz75">
+      <segment state="translated">
+        <source>st_wpn_cz75</source>
+        <target>
+        <text>CZ 75</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$62" name="st_wpn_cz75_descr">
+      <segment state="translated">
+        <source>st_wpn_cz75_descr</source>
+        <target>
+        <text>The CZ 75 is a pistol made by CZUB in the Czech Republic. First introduced in 1975, it is one of the original "wonder nines" featuring a staggered-column magazine, all-steel construction, and a hammer forged barrel. It has a good reputation for quality and versatility.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$63" name="st_wpn_gsh18">
+      <segment state="translated">
+        <source>st_wpn_gsh18</source>
+        <target>
+        <text>GSh-18</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$64" name="st_wpn_gsh18_descr">
+      <segment state="translated">
+        <source>st_wpn_gsh18_descr</source>
+        <target>
+        <text>The GSh-18 is a 9 mm semi-automatic pistol developed in 1990s at the KBP Instrument Design Bureau in Tula. The pistol's name is derived from its designers — Gryazev and Shipunov, and the number 18 denotes the magazine capacity.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$65" name="st_wpn_mp443">
+      <segment state="translated">
+        <source>st_wpn_mp443</source>
+        <target>
+        <text>MP-443 Grach</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$66" name="st_wpn_mp443_descr">
+      <segment state="translated">
+        <source>st_wpn_mp443_descr</source>
+        <target>
+        <text>The MP-443 Grach is a Russian semi-automatic pistol designed by Vladimir Yarygin in the 1990s and manufactured by Izhevsk Mechanical Plant. It was developed in response to Russian military trials, which began in 1993, to replace the Makarov PMM. The pistol was designed to be capable of firing over-pressurized versions of the 9x19mm Parabellum round (7N21) which are more  capable of piercing armor.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$67" name="st_wpn_mp440">
+      <segment state="translated">
+        <source>st_wpn_mp440</source>
+        <target>
+        <text>MP-440</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$68" name="st_wpn_mp440_descr">
+      <segment state="translated">
+        <source>st_wpn_mp440_descr</source>
+        <target>
+        <text>An MP-443 rechambered for the more powerful .40 S&amp;W round. Made for a mercenary who wanted a Russian pistol in a more powerful round than 9mm.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$69" name="st_wpn_pmm">
+      <segment state="translated">
+        <source>st_wpn_pmm</source>
+        <target>
+        <text>Makarov PMM</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$70" name="st_wpn_pmm_descr">
+      <segment state="translated">
+        <source>st_wpn_pmm_descr</source>
+        <target>
+        <text>The most widely known variant, the Makarov PMM, was a redesign of the original gun. In 1990, a group of engineers reworked the original Makarov, primarily by increasing the load for the cartridge. The result is a significant increase in muzzle velocity and generation of 25% more gas pressure. The PMM magazine holds 12 rounds, compared to the PM's 8 rounds.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$71" name="st_wpn_aps">
+      <segment state="translated">
+        <source>st_wpn_aps</source>
+        <target>
+        <text>Stechkin APS</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$72" name="st_wpn_aps_descr">
+      <segment state="translated">
+        <source>st_wpn_aps_descr</source>
+        <target>
+        <text>The Stechkin APS is a Russian selective fire machine pistol. It bears the name of its developer, Igor Stechkin. The Stechkin automatic pistol was originally chambered for 7.62x25mm Tokarev. Stechkin changed the pistol to the 9 mm caliber used in the new Makarov pistol, as it became clear that this cartridge was set to become the new service ammunition for handguns of the Soviet Army. In 1951, both the Makarov and Stechkin were introduced into the Soviet military arsenal, replacing the aging TT-33.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$73" name="st_wpn_ak74m">
+      <segment state="translated">
+        <source>st_wpn_ak74m</source>
+        <target>
+        <text>AK-74M</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$74" name="st_wpn_ak74m_descr">
+      <segment state="translated">
+        <source>st_wpn_ak74m_descr</source>
+        <target>
+        <text>The AK-74M is a modernized version of the AK-74 assault rifle. It features a new synthetic stock made from a black, glass-filled polyamide that also side-folds like in the AKS-74. Additionally the AK-74M features an improved muzzle device, a reinforced smooth dust cover and a redesigned guide rod return spring retainer that allows firing the GP-25 under-slung grenade launcher without having to use the previously necessary additional receiver cover fastener.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$75" name="st_wpn_ak101">
+      <segment state="translated">
+        <source>st_wpn_ak101</source>
+        <target>
+        <text>AK-101</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$76" name="st_wpn_ak101_descr">
+      <segment state="translated">
+        <source>st_wpn_ak101_descr</source>
+        <target>
+        <text>The AK-101 is an assault rifle of the Kalashnikov series designed for the world export market, using 5.56x45mm NATO cartridges, which is the standard of most NATO armies. The AK-101 is marketed at those looking for a weapon that combines the logistical compatibility and familiarity of the 5.56x45mm NATO round with the reliability of a Kalashnikov. It is designed with modern and composite materials, including plastics that reduce weight and improve accuracy. Many of the improvements found in the AK-101 are also present in the AK-103 and the rest of the AK-10x series of rifles.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$77" name="st_wpn_ak102">
+      <segment state="translated">
+        <source>st_wpn_ak102</source>
+        <target>
+        <text>AK-102</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$78" name="st_wpn_ak102_descr">
+      <segment state="translated">
+        <source>st_wpn_ak102_descr</source>
+        <target>
+        <text>The AK-102 is a 5.56x45 shortened carbine version of the AK-101 rifle. It features a shortened barrel that makes it a middle ground between a full rifle and the more compact AKS-74U. The rifle's receiver is made of stamped steel. The magazine is made out of reinforced fiberglass. The butt stock is made of hollow plastic, making it lighter, more durable, and allowing a field kit to be stored in side of it.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$79" name="st_wpn_ak103">
+      <segment state="translated">
+        <source>st_wpn_ak103</source>
+        <target>
+        <text>AK-103</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$80" name="st_wpn_ak103_descr">
+      <segment state="translated">
+        <source>st_wpn_ak103_descr</source>
+        <target>
+        <text>The AK-103 assault rifle is a derivative of the AK-74M chambered for 7.62x39, same as the AKM and AK-47. The AK-103 can be fitted with a variety of sights, including laser, night vision, and telescopic sights, plus a suppressor and the GP-25 grenade launcher. It uses plastic components whenever possible instead of wood or metal in order to reduce weight.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$81" name="st_wpn_ak104">
+      <segment state="translated">
+        <source>st_wpn_ak104</source>
+        <target>
+        <text>AK-104</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$82" name="st_wpn_ak104_descr">
+      <segment state="translated">
+        <source>st_wpn_ak104_descr</source>
+        <target>
+        <text>The AK-104 is a 7.62x39 shortened carbine version of the AK-103 rifle. It features a shortened barrel that makes it a middle ground between a full rifle and the more compact AKS-74U. The rifle's receiver is made of stamped steel. The magazine is made out of reinforced fiberglass. The butt stock is made of hollow plastic, making it lighter, more durable, and allowing a field kit to be stored in side of it.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$83" name="st_wpn_ak105">
+      <segment state="translated">
+        <source>st_wpn_ak105</source>
+        <target>
+        <text>AK-105</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$84" name="st_wpn_ak105_descr">
+      <segment state="translated">
+        <source>st_wpn_ak105_descr</source>
+        <target>
+        <text>The AK-105 is a 5.45x39 shortened carbine version of the AK-74M rifle. It features a shortened barrel that makes it a middle ground between a full rifle and the more compact AKS-74U. The rifle's receiver is made of stamped steel. The magazine is made out of reinforced fiberglass. The butt stock is made of hollow plastic, making it lighter, more durable, and allowing a field kit to be stored in side of it.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$85" name="st_wpn_aks74n">
+      <segment state="translated">
+        <source>st_wpn_aks74n</source>
+        <target>
+        <text>AKS-74N</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$86" name="st_wpn_aks74n_descr">
+      <segment state="translated">
+        <source>st_wpn_aks74n_descr</source>
+        <target>
+        <text>The AKS-74N is a modernized version of the ASK-74 assault rifle. It features lighter synthetic hand guards made from a black, glass-filled polyamide. Additionally the AKS-74N features an improved muzzle device, a reinforced smooth dust cover and a redesigned guide rod return spring retainer that allows firing the GP-25 under-slung grenade launchers without having to use the previously necessary additional receiver cover fastener.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$87" name="st_wpn_ak74m_c49eeb1c5a8afbdc790644b572961d1a">
+      <segment state="translated">
+        <source>st_wpn_ak74m</source>
+        <target>
+        <text>AK-74M</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$88" name="st_wpn_ak74m_descr_fe12a00c2b75a0858874f65b9dc5abc6">
+      <segment state="translated">
+        <source>st_wpn_ak74m_descr</source>
+        <target>
+        <text>The AK-74M is a modernized version of the AK-74 assault rifle. It features a new synthetic stock made from a black, glass-filled polyamide that also side-folds like in the AKS-74. Additionally the AK-74M features an improved muzzle device, a reinforced smooth dust cover and a redesigned guide rod return spring retainer that allows firing the GP-25 under-slung grenade launchers without having to use the previously necessary additional receiver cover fastener.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$89" name="st_wpn_aks74">
+      <segment state="translated">
+        <source>st_wpn_aks74</source>
+        <target>
+        <text>AKS-74</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$90" name="st_wpn_aks74_descr">
+      <segment state="translated">
+        <source>st_wpn_aks74_descr</source>
+        <target>
+        <text>A variant of the AK-74 equipped with a side-folding metal shoulder stock, designed primarily for use with air assault infantry. Does nothing fancy, but weighs 100 grams less than the AK-74.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$91" name="st_wpn_mn91">
+      <segment state="translated">
+        <source>st_wpn_mn91</source>
+        <target>
+        <text>MN91/30</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$92" name="st_wpn_mn91_descr">
+      <segment state="translated">
+        <source>st_wpn_mn91_descr</source>
+        <target>
+        <text>The Mosin Nagant is a surplus bolt-action rifle developed by the Imperial Russian Army in 1882–1891 and used by the armed forces of the Russian Empire, the Soviet Union and various other nations. Technicians are not interested in upgrading surplus weapons.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$93" name="st_wpn_avt40">
+      <segment state="translated">
+        <source>st_wpn_avt40</source>
+        <target>
+        <text>AVT-40</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$94" name="st_wpn_avt40_descr">
+      <segment state="translated">
+        <source>st_wpn_avt40_descr</source>
+        <target>
+        <text>To supplement the Red Army's shortage of machine guns an SVT capable of automatic fire was ordered into production on 20 May 1942; the first batches reached the troops in July. It was externally similar to the SVT, but its modified safety also acted as a fire selector. In service, the AVT proved to be a disappointment: automatic fire was largely uncontrollable, and the rifles often suffered breakages under the increased strain. The use of the AVT's automatic fire mode was prohibited, and production ceased after the summer of 1943.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$95" name="st_wpn_svt40">
+      <segment state="translated">
+        <source>st_wpn_svt40</source>
+        <target>
+        <text>SVT-40</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$96" name="st_wpn_svt40_descr">
+      <segment state="translated">
+        <source>st_wpn_svt40_descr</source>
+        <target>
+        <text>The SVT-40 is a surplus semi-automatic rifle chambered in the 7.62x54R round. It saw widespread use in the Red Army and Wehrmacht during WWII. Technicians are not interested in upgrading surplus weapons.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$97" name="st_wpn_sks_bddda0af8c7e62b04cfdd6e2e4a1cc99">
+      <segment state="translated">
+        <source>st_wpn_sks</source>
+        <target>
+        <text>SKS</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$98" name="st_wpn_sks_descr_3694bf174437c767028e17095c2ca187">
+      <segment state="translated">
+        <source>st_wpn_sks_descr</source>
+        <target>
+        <text>The SKS is a semi-automatic carbine chambered for the 7.62x39mm round, designed in 1943 by Sergei Gavrilovich Simonov. A gunsmith in The Zone has modified this rifle to use a detachable 20 round magazincaned.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$99" name="st_wpn_pp2000">
+      <segment state="translated">
+        <source>st_wpn_pp2000</source>
+        <target>
+        <text>PP-2000</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$100" name="st_wpn_pp2000_descr">
+      <segment state="translated">
+        <source>st_wpn_pp2000_descr</source>
+        <target>
+        <text>The PP-2000 is a 9x19 submachine gun made by the KBP Instrument Design Bureau.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$101" name="st_wpn_m134">
+      <segment state="translated">
+        <source>st_wpn_m134</source>
+        <target>
+        <text>M134 Minigun</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$102" name="st_wpn_m134_descr">
+      <segment state="translated">
+        <source>st_wpn_m134_descr</source>
+        <target>
+        <text>The M134 Minigun is a 7.62x51 mm NATO, six-barrel machine gun with a rate of fire of 2000 rounds per minute. It features Gatling-style rotating barrels with an external power source, normally an electric motor. The "Mini" in the name is in comparison to designs that use a similar firing mechanism but larger shells, such as General Electric's earlier 20mm M61 Vulcan, and "gun" for a caliber size smaller than that of a cannon, typically 20 mm and higher.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$103" name="st_wpn_fiveseven">
+      <segment state="translated">
+        <source>st_wpn_fiveseven</source>
+        <target>
+        <text>FN Five-seven</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$104" name="st_wpn_fiveseven_descr">
+      <segment state="translated">
+        <source>st_wpn_fiveseven_descr</source>
+        <target>
+        <text>Developed as a companion pistol to the P90, the Five-seven shares many of its design features: it is a lightweight polymer-based weapon with a large magazine capacity, ambidextrous controls, low recoil, and the ability to penetrate body armor when using certain cartridge types.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$105" name="st_wpn_p90">
+      <segment state="translated">
+        <source>st_wpn_p90</source>
+        <target>
+        <text>FN P90</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$106" name="st_wpn_p90_descr">
+      <segment state="translated">
+        <source>st_wpn_p90_descr</source>
+        <target>
+        <text>The FN P90 is a personal defense weapon designed in conjunction with the FN Five-seven pistol.  Manufactured by FN Herstal in Belgium, it was created in response to NATO requests for a replacement for 9x19mm Parabellum firearms, the P90 was designed as a compact but powerful firearm for vehicle crews, operators of crew-served weapons, support personnel, special forces and counter-terrorist groups.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$107" name="st_wpn_hk416">
+      <segment state="translated">
+        <source>st_wpn_hk416</source>
+        <target>
+        <text>H&amp;K HK416A5</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$108" name="st_wpn_hk416_descr">
+      <segment state="translated">
+        <source>st_wpn_hk416_descr</source>
+        <target>
+        <text>The HK416A5 is an assault rifle designed and manufactured by Heckler &amp; Koch. It is based on the AR-15 platform, and was originally conceived as an improvement based on the Colt M4 carbine family issued to the U.S. military, with the notable inclusion of an HK-proprietary short-stroke gas piston system derived from the Heckler &amp; Koch G36.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$109" name="st_wpn_galil">
+      <segment state="translated">
+        <source>st_wpn_galil</source>
+        <target>
+        <text>IMI Galil ARM</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$110" name="st_wpn_galil_descr">
+      <segment state="translated">
+        <source>st_wpn_galil_descr</source>
+        <target>
+        <text>The IMI Galil ARM a family of Israeli battle rifles produced by Israel Military Industries Ltd.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$111" name="st_wpn_m14">
+      <segment state="translated">
+        <source>st_wpn_m14</source>
+        <target>
+        <text>M14 EBR</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$112" name="st_wpn_m14_descr">
+      <segment state="translated">
+        <source>st_wpn_m14_descr</source>
+        <target>
+        <text>The M14 EBR is an American designated marksman rifle chambered for the 7.62x51mm NATO round It is a variant of the M14 battle rifle and was originally built for use with units of the United States Special Operations Command, such as the Navy SEALs, Delta Force, and task specific ODA units. It found its way into The Zone through a member of Black's mercenary squad.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$113" name="st_wpn_l115a3">
+      <segment state="translated">
+        <source>st_wpn_l115a3</source>
+        <target>
+        <text>L115A3</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$114" name="st_wpn_l115a3_descr">
+      <segment state="translated">
+        <source>st_wpn_l115a3_descr</source>
+        <target>
+        <text>The L115A3 is a bolt action sniper rifle chambered in .338 Lapua. In 1982 the British Army adopted the Accuracy International PM into service as the L115A3 and outfitted the rifle with Schmidt &amp; Bender 6x42 telescopic sights. In this configuration the rifle is capable of first shot hits with a cold, warm or fouled barrel.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$115" name="st_wpn_l96">
+      <segment state="translated">
+        <source>st_wpn_l96</source>
+        <target>
+        <text>L96A1</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$116" name="st_wpn_l96_descr">
+      <segment state="translated">
+        <source>st_wpn_l96_descr</source>
+        <target>
+        <text>The L96A1 is a bolt action sniper rifle chambered in 7.62x51 NATO. In 1982 the British Army adopted the Accuracy International PM into service as the L96A1 and outfitted the rifle with Schmidt &amp; Bender 6x42 telescopic sights. In this configuration the rifle is capable of first shot hits with a cold, warm or fouled barrel.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$117" name="st_wpn_trg42">
+      <segment state="translated">
+        <source>st_wpn_trg42</source>
+        <target>
+        <text>TRG-42</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$118" name="st_wpn_trg42_descr">
+      <segment state="translated">
+        <source>st_wpn_trg42_descr</source>
+        <target>
+        <text>The TRG-42 is a bolt-action sniper rifle chambered for .338 Lapua. Built by the Finnish firearm manufacturer SAKO at Riihimaki.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$119" name="st_wpn_trg22">
+      <segment state="translated">
+        <source>st_wpn_trg22</source>
+        <target>
+        <text>TRG-22</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$120" name="st_wpn_trg22_descr">
+      <segment state="translated">
+        <source>st_wpn_trg22_descr</source>
+        <target>
+        <text>The TRG-22 is a bolt-action sniper rifle chambered for 7.62x51. Built by the Finnish firearm manufacturer SAKO at Riihimaki.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$121" name="st_wpn_mp7">
+      <segment state="translated">
+        <source>st_wpn_mp7</source>
+        <target>
+        <text>H&amp;K MP7</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$122" name="st_wpn_mp7_descr">
+      <segment state="translated">
+        <source>st_wpn_mp7_descr</source>
+        <target>
+        <text>The MP7 is a German Personal Defence Weapon (PDW) manufactured by Heckler &amp; Koch and chambered for the HK 4.6x30mm cartridge. It was designed to meet NATO requirements published in 1989, that call for a PDW class firearm with greater ability to defeat body armor.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$123" name="st_wpn_ump45">
+      <segment state="translated">
+        <source>st_wpn_ump45</source>
+        <target>
+        <text>H&amp;K UMP-45</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$124" name="st_wpn_ump45_descr">
+      <segment state="translated">
+        <source>st_wpn_ump45_descr</source>
+        <target>
+        <text>The H&amp;K UMP (Universal Machine Pistol) is a series of submachine guns from Heckler and Koch as a lighter and cheaper alternative to the H&amp;K MP5. The UMP's action is blow-back firing from a closed bolt as opposed to the MP5's delayed roller blow-back action.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$125" name="st_wpn_ump40_descr">
+      <segment state="translated">
+        <source>st_wpn_ump40_descr</source>
+        <target>
+        <text>The H&amp;K UMP (Universal Machine Pistol) is a series of submachine guns from Heckler and Koch as a lighter and cheaper alternative to the H&amp;K MP5. The UMP's action is blow-back firing from a closed bolt as opposed to the MP5's delayed roller blow-back action.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$126" name="st_wpn_ump40">
+      <segment state="translated">
+        <source>st_wpn_ump40</source>
+        <target>
+        <text>H&amp;K UMP-40</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$127" name="st_wpn_hk417">
+      <segment state="translated">
+        <source>st_wpn_hk417</source>
+        <target>
+        <text>H&amp;K HK417</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$128" name="st_wpn_hk417_descr">
+      <segment state="translated">
+        <source>st_wpn_hk417_descr</source>
+        <target>
+        <text>The HK417 is a battle rifle designed and manufactured in Germany by Heckler &amp; Koch. The HK417 is intended for use as a designated marksman rifle and in other roles where the greater penetrative power and range of the 7.62x51mm NATO round are required. It has been adopted for service by a number of armed forces, special forces, police organizations and the mercenaries.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$129" name="st_wpn_scar-h">
+      <segment state="translated">
+        <source>st_wpn_scar-h</source>
+        <target>
+        <text>FN SCAR-H</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$130" name="st_wpn_scar-h_descr">
+      <segment state="translated">
+        <source>st_wpn_scar-h_descr</source>
+        <target>
+        <text>The SCAR-H is a 7.62x51 NATO battle rifle made by FN Herstal for the United States Special Operations Command. As of early 2015, the FN SCAR is now in service in over 20 countries around the world. It was selected in 2004 out of the Special Operations Forces (SOF) Combat Assault Rifle Program and officially designated as operationally effective, operationally suitable and sustainable as a result of a 5-week Field User Assessment conducted by operational SOCOM forces in late 2008. These SCAR-H began fielding in April 2009. As of early 2015, the FN SCAR is now in service in over 20 countries around the world.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$131" name="st_wpn_g3">
+      <segment state="translated">
+        <source>st_wpn_g3</source>
+        <target>
+        <text>H&amp;K G3</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$132" name="st_wpn_g3_descr">
+      <segment state="translated">
+        <source>st_wpn_g3_descr</source>
+        <target>
+        <text>The Grandfather G3 battle rifle developed in the 1950s by the German armament manufacturer Heckler and Koch. Well known for its accuracy and high degree of craftsmanship. The G3 series is without argument one of the best and most popular 7.62x51mm NATO caliber combat rifles in history, used by over 50 countries since its creation.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$133" name="st_wpn_g3a3">
+      <segment state="translated">
+        <source>st_wpn_g3a3</source>
+        <target>
+        <text>H&amp;K G3A3</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$134" name="st_wpn_g3a3_descr">
+      <segment state="translated">
+        <source>st_wpn_g3a3_descr</source>
+        <target>
+        <text>The H&amp;K G3A3 is a 7.62 NATO battle rifle developed in the 1950s by the German armament manufacturer Heckler and Koch. Well known for its accuracy and high degree of craftsmanship. The G3 series is without argument one of the best and most popular 7.62x51mm NATO caliber combat rifles in history, used by over 50 countries since its creation.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$135" name="st_wpn_g3sg1">
+      <segment state="translated">
+        <source>st_wpn_g3sg1</source>
+        <target>
+        <text>H&amp;K G3SG/1</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$136" name="st_wpn_g3sg1_descr">
+      <segment state="translated">
+        <source>st_wpn_g3sg1_descr</source>
+        <target>
+        <text>A sniper variant of the H&amp;K G3A3 battle rifle. The "SG" stands for Scharfschützengewehr, or "sharpshooting rifle". The rifles were individually selected from the production line for their accuracy and then modified. A Zeiss 1.5-6x variable power telescopic sight was added using a HK claw mount attached to the receiver. The stock was extended slightly compared to the standard G3 fixed stock and comes with a heavy, dual-stage buffer and adjustable cheek rest. A special set trigger group was added for a crisp trigger pull of 1 lb.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$137" name="st_wpn_stg58">
+      <segment state="translated">
+        <source>st_wpn_stg58</source>
+        <target>
+        <text>StG 58</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$138" name="st_wpn_stg58_descr">
+      <segment state="translated">
+        <source>st_wpn_stg58_descr</source>
+        <target>
+        <text>The Sturmgewehr 58 (StG 58) is an FAL battle rifle manufactured under license by Steyr-Daimler-Puch and was formerly the standard rifle of the Austrian Army. It is essentially a user customized version of the FAL and is still in use in the Austrian forces. It was selected in a 1958 competition, beating the Spanish CETME and American AR-10.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$139" name="st_wpn_g36c">
+      <segment state="translated">
+        <source>st_wpn_g36c</source>
+        <target>
+        <text>H&amp;K G36C</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$140" name="st_wpn_g36c_descr">
+      <segment state="translated">
+        <source>st_wpn_g36c_descr</source>
+        <target>
+        <text>The G36C carbine is a further development of the G36. It has a shorter barrel and a four-prong birdcage type flash hider. The extremely short barrel forced designers to move the gas block closer to the muzzle end and reduce the length of the gas piston operating rod. The dual optical sight found on the standard G36 and G36K models was replaced with a set of rail-mounted detachable iron sights that consist of a semi-shrouded front post and a flip-up rear sight.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$141" name="st_wpn_aug">
+      <segment state="translated">
+        <source>st_wpn_aug</source>
+        <target>
+        <text>Steyr AUG A1</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$142" name="st_wpn_aug_descr">
+      <segment state="translated">
+        <source>st_wpn_aug_descr</source>
+        <target>
+        <text>The Steyr AUG is an Austrian bullpup 5.56x45mm assault rifle, designed in the 1960s by Steyr Mannlicher. It was adopted by the Austrian Army in 1978 and is the standard rifle of the Bundesheer and various national police units.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$143" name="st_wpn_m16">
+      <segment state="translated">
+        <source>st_wpn_m16</source>
+        <target>
+        <text>M16A2</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$144" name="st_wpn_m16_descr">
+      <segment state="translated">
+        <source>st_wpn_m16_descr</source>
+        <target>
+        <text>The M16 is an assault rifle chambered for the 5.56x45 round. It entered service with the U.S miltary in 1963, eventually becoming the U.S. military's standard service rifle by 1969.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$145" name="st_wpn_m1668">
+      <segment state="translated">
+        <source>st_wpn_m1668</source>
+        <target>
+        <text>M16 SPR</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$146" name="st_wpn_m1668_descr">
+      <segment state="translated">
+        <source>st_wpn_m1668_descr</source>
+        <target>
+        <text>Special Purpose Rifle, an M16 rechambered for the more powerful 6.8x43 SPC round and modified for full automatic fire.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$147" name="st_wpn_m68">
+      <segment state="translated">
+        <source>st_wpn_m68</source>
+        <target>
+        <text>M68</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$148" name="st_wpn_m68_descr">
+      <segment state="translated">
+        <source>st_wpn_m68_descr</source>
+        <target>
+        <text>The M68 is a customized M249 machine gun rechambered in 6.8 SPC.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$149" name="st_wpn_m249">
+      <segment state="translated">
+        <source>st_wpn_m249</source>
+        <target>
+        <text>M249</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$150" name="st_wpn_m249_descr">
+      <segment state="translated">
+        <source>st_wpn_m249_descr</source>
+        <target>
+        <text>The M249 is a belt fed 5.56x45 machine gun. It is the American adaptation of the Belgian FN Minimi. The M249 has seen action in every major conflict involving the United States since the U.S. invasion of Panama in 1989. Soldiers are generally satisfied with the weapon's performance, though there have been reports of clogging with dirt and sand.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$151" name="st_wpn_m68_6c464e83eefc02c6f30d05506e7ba55f">
+      <segment state="translated">
+        <source>st_wpn_m68</source>
+        <target>
+        <text>M68</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$152" name="st_wpn_m68_descr_bc228738ae9632c72b3cce6bfe686759">
+      <segment state="translated">
+        <source>st_wpn_m68_descr</source>
+        <target>
+        <text>The M68 is a customized M249 machine gun rechambered in 6.8 SPC.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$153" name="st_wpn_m60">
+      <segment state="translated">
+        <source>st_wpn_m60</source>
+        <target>
+        <text>M60</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$154" name="st_wpn_m60_descr">
+      <segment state="translated">
+        <source>st_wpn_m60_descr</source>
+        <target>
+        <text>The M60 is a belt fed 7.62x51 machine gun first introduced in 1957. It served with every branch of the U.S. military. Eventually finding its way on to the black market and into The Zone.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$155" name="st_wpn_glock20">
+      <segment state="translated">
+        <source>st_wpn_glock20</source>
+        <target>
+        <text>Glock 20</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$156" name="st_wpn_glock35">
+      <segment state="translated">
+        <source>st_wpn_glock35</source>
+        <target>
+        <text>Glock 35</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$157" name="st_wpn_glock21">
+      <segment state="translated">
+        <source>st_wpn_glock21</source>
+        <target>
+        <text>Glock 21</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$158" name="st_wpn_glock17">
+      <segment state="translated">
+        <source>st_wpn_glock17</source>
+        <target>
+        <text>Glock 17</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$159" name="st_wpn_glock17_descr">
+      <segment state="translated">
+        <source>st_wpn_glock17_descr</source>
+        <target>
+        <text>Glock is a series of polymer-framed, short recoil operated, locked breech semi-automatic pistols designed and produced by Glock Ges.m.b.H., located in Deutsch-Wagram, Austria. It is widely used throughout the world in military, security and police forces. Commonly found in The Zone in 9mm, 10mm Auto, .45 ACP and .40 S&amp;W.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$160" name="st_wpn_glock35_descr">
+      <segment state="translated">
+        <source>st_wpn_glock35_descr</source>
+        <target>
+        <text>Glock is a series of polymer-framed, short recoil operated, locked breech semi-automatic pistols designed and produced by Glock Ges.m.b.H., located in Deutsch-Wagram, Austria. It is widely used throughout the world in military, security and police forces. Commonly found in The Zone in 9mm, 10mm Auto, .45 ACP and .40 S&amp;W.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$161" name="st_wpn_glock20_descr">
+      <segment state="translated">
+        <source>st_wpn_glock20_descr</source>
+        <target>
+        <text>Glock is a series of polymer-framed, short recoil operated, locked breech semi-automatic pistols designed and produced by Glock Ges.m.b.H., located in Deutsch-Wagram, Austria. It is widely used throughout the world in military, security and police forces. Commonly found in The Zone in 9mm, 10mm Auto, .45 ACP and .40 S&amp;W.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$162" name="st_wpn_glock21_descr">
+      <segment state="translated">
+        <source>st_wpn_glock21_descr</source>
+        <target>
+        <text>Glock is a series of polymer-framed, short recoil operated, locked breech semi-automatic pistols designed and produced by Glock Ges.m.b.H., located in Deutsch-Wagram, Austria. It is widely used throughout the world in military, security and police forces. Commonly found in The Zone in 9mm, 10mm Auto, .45 ACP and .40 S&amp;W.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$163" name="st_wpn_fnp45">
+      <segment state="translated">
+        <source>st_wpn_fnp45</source>
+        <target>
+        <text>FN FNP-45</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$164" name="st_wpn_fnp45_descr">
+      <segment state="translated">
+        <source>st_wpn_fnp45_descr</source>
+        <target>
+        <text>The FN FNP pistol is a series of semi-automatic, polymer-framed pistols manufactured in Columbia, SC, by FNH USA, a division of Fabrique Nationale. The pistol debuted in early 2006 and is chambered for .40 S&amp;W and .45 ACP.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$165" name="st_wpn_fnp40">
+      <segment state="translated">
+        <source>st_wpn_fnp40</source>
+        <target>
+        <text>FN FNP-40</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$166" name="st_wpn_fnp40_descr">
+      <segment state="translated">
+        <source>st_wpn_fnp40_descr</source>
+        <target>
+        <text>The FN FNP pistol is a series of semi-automatic, polymer-framed pistols manufactured in Columbia, SC, by FNH USA, a division of Fabrique Nationale. The pistol debuted in early 2006 and is chambered for .40 S&amp;W and .45 ACP.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$167" name="st_wpn_usp10">
+      <segment state="translated">
+        <source>st_wpn_usp10</source>
+        <target>
+        <text>H&amp;K USP-10</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$168" name="st_wpn_usp10_descr">
+      <segment state="translated">
+        <source>st_wpn_usp10_descr</source>
+        <target>
+        <text>Impeccable reliability and durability combined with excellent accuracy are the main noteworthy features of this weapon. Its minor drawbacks include its considerable size, relatively high center of gravity and massive bolt, which make it difficult to conceal but do not outweigh the weapon's positive features. The weapon is especially popular with the Zone's veterans.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$169" name="st_wpn_m4a1_50">
+      <segment state="translated">
+        <source>st_wpn_m4a1_50</source>
+        <target>
+        <text>Beowulf M4</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$170" name="st_wpn_m4a1_50_descr">
+      <segment state="translated">
+        <source>st_wpn_m4a1_50_descr</source>
+        <target>
+        <text>The Beowulf M4 is a fully automatic variant of the M4 carbine chambered in .50 Beowulf. The round is intended to improve stopping power greatly at short- to medium-range as compared to the standard 5.56x45mm NATO round. One of its advertised uses is at vehicle checkpoints, since the heavy bullet's flight path is not easily deflected by auto glass or standard vehicle body panels. Although much has been written about its tactical uses, the .50 Beowulf is gaining recognition as a sporting cartridge. It is becoming more widely recognized as being usable for hunting big game. </text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$171" name="st_wpn_m4a1">
+      <segment state="translated">
+        <source>st_wpn_m4a1</source>
+        <target>
+        <text>Colt M4A1</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$172" name="st_wpn_m4a1_descr">
+      <segment state="translated">
+        <source>st_wpn_m4a1_descr</source>
+        <target>
+        <text>The M4A1 is used by almost all U.S special operation units including, but not limited to, Marine Force Recon, Army Rangers, Army Special Forces, Navy SEALs, United States Air Force Pararescue and Air Force Combat Control Teams. The M4A1 is especially favored by counter-terrorist and special forces units for close quarters combat and urban warfare because of the carbine's compact firepower.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$173" name="st_wpn_m4bm">
+      <segment state="translated">
+        <source>st_wpn_m4bm</source>
+        <target>
+        <text>Bushmaster M4</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$174" name="st_wpn_m4bm_descr">
+      <segment state="translated">
+        <source>st_wpn_m4bm_descr</source>
+        <target>
+        <text>The Bushmaster M4 is a carbine manufactured by Bushmaster Firearms International, modeled on the AR-15 platform. Chambered in 6.8 SPC.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$175" name="st_wpn_lr680_descr">
+      <segment state="translated">
+        <source>st_wpn_lr680_descr</source>
+        <target>
+        <text>A new step in the development of this famous weapon family. The changes were made to the upper half of the steel construction comprising the barrel, gas tube and bolt assembly, reducing the weapon’s weight, improving ergonomics and its gas system. The weapon is highly accurate, although its propensity to catch dirt makes it a poor choice for the Zone’s difficult conditions.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$176" name="st_wpn_ar15">
+      <segment state="translated">
+        <source>st_wpn_ar15</source>
+        <target>
+        <text>AR15</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$177" name="st_wpn_ar15_descr">
+      <segment state="translated">
+        <source>st_wpn_ar15_descr</source>
+        <target>
+        <text>The AR15 is a 5.56x45 semi-automatic version of the M4 assault rifle marketed to civilians. Can mount a suppressor and optics, but not a grenade launcher.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$178" name="st_wpn_usp40">
+      <segment state="translated">
+        <source>st_wpn_usp40</source>
+        <target>
+        <text>H&amp;K USP-40</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$179" name="st_wpn_usp40_descr">
+      <segment state="translated">
+        <source>st_wpn_usp40_descr</source>
+        <target>
+        <text>Impeccable reliability and durability combined with excellent accuracy are the main noteworthy features of this weapon. Its minor drawbacks include its considerable size, relatively high center of gravity and massive bolt, which make it difficult to conceal but do not outweigh the weapon's positive features. The weapon is especially popular with the Zone's veterans.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$180" name="st_wpn_beretta96">
+      <segment state="translated">
+        <source>st_wpn_beretta96</source>
+        <target>
+        <text>Beretta 96</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$181" name="st_wpn_beretta96_descr">
+      <segment state="translated">
+        <source>st_wpn_beretta96_descr</source>
+        <target>
+        <text>Beretta 96 pistols enjoy the reputation of a relatively reliable, albeit somewhat cumbersome weapon, around the world. In service with armed forces and police across the ocean, as well as various military and law enforcement organizations worldwide.  The pistol is equally popular with members of the underworld, thanks to its powerful round and magazine capacity. Beretta 96 pistols found in the Zone are usually dated, probably from retired stock.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$182" name="st_wpn_hpsa40">
+      <segment state="translated">
+        <source>st_wpn_hpsa40</source>
+        <target>
+        <text>Browning HiPower .40 S&amp;W</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$183" name="st_wpn_hpsa40_descr">
+      <segment state="translated">
+        <source>st_wpn_hpsa40_descr</source>
+        <target>
+        <text>Browning deserves its reputation as one of the best handguns of the 20th century. Reliable, powerful and precise, it holds up to 10 .40 S&amp;W rounds.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$184" name="st_wpn_coltde">
+      <segment state="translated">
+        <source>st_wpn_coltde</source>
+        <target>
+        <text>Colt Delta Elite</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$185" name="st_wpn_coltde_descr">
+      <segment state="translated">
+        <source>st_wpn_coltde_descr</source>
+        <target>
+        <text>The Colt Delta Elite is a modified M1911 pistol, chambered for 10mm Auto. It is similar to the M1911 in design and operation. Colt manufactured both stainless steel and blued versions with eight-round magazines. </text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$186" name="st_addons_box">
+      <segment state="translated">
+        <source>st_addons_box</source>
+        <target>
+        <text>Multi-Tool</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$187" name="st_addons_box_descr">
+      <segment state="translated">
+        <source>st_addons_box_descr</source>
+        <target>
+        <text>Compact multi tool with numerous hex bits and punch tools used to unmount optical sights.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$188" name="st_addon_scope_1p29">
+      <segment state="translated">
+        <source>st_addon_scope_1p29</source>
+        <target>
+        <text>1P29 Scope</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$189" name="st_addon_scope_1p29_descr">
+      <segment state="translated">
+        <source>st_addon_scope_1p29_descr</source>
+        <target>
+        <text>A common Soviet made 1P29 scope that is side mounted on various AK pattern rifles.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$190" name="st_addon_scope_pu">
+      <segment state="translated">
+        <source>st_addon_scope_pu</source>
+        <target>
+        <text>PU Scope</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$191" name="st_addon_scope_pu_descr">
+      <segment state="translated">
+        <source>st_addon_scope_pu_descr</source>
+        <target>
+        <text>The PU scope is a Soviet sniper scope, widely used on the Mosin-Nagant, SKS and SVT-40. Magnification is fixed at 3.5x.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$192" name="st_addon-ekp-8-02">
+      <segment state="translated">
+        <source>st_addon-ekp-8-02</source>
+        <target>
+        <text>EKP-8-02</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$193" name="st_addon-ekp-8-02_descr">
+      <segment state="translated">
+        <source>st_addon-ekp-8-02_descr</source>
+        <target>
+        <text>The EKP-8-02 is an open collimator red dot combat optic using a laser generated HUD to superimpose a reticle pattern onto a filtered lens. It is designed for engaging fast moving targets and targets appearing for a short period of time in close quarters and urban combat situations in various light conditions. It provides clear targeting from 104 lx to 10-2 lx (daylight, twilight and moonlight), one- or two-eye targeting, is very effective when shooting from moving vehicles, and allows for perfect kill shots on fast-moving, small and spontaneously appearing targets.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$194" name="st_addon_scope_kobra-ekp-1s-03">
+      <segment state="translated">
+        <source>st_addon_scope_kobra-ekp-1s-03</source>
+        <target>
+        <text>Kobra</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$195" name="st_addon_scope_kobra_descr">
+      <segment state="translated">
+        <source>st_addon_scope_kobra_descr</source>
+        <target>
+        <text>The Kobra sight is an open collimator combat optic using a laser generated HUD to superimpose a reticle pattern onto a filtered lens. It is designed for engaging fast moving targets and targets appearing for a short period of time in close quarters and urban combat in various light conditions. It provides clear targeting from 104 lx to 10-2 lx (daylight, twilight and moonlight), one or two eye targeting. Effective when shooting from moving vehicles.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$196" name="st_addon_scope_acog">
+      <segment state="translated">
+        <source>st_addon_scope_acog</source>
+        <target>
+        <text>Trijicon ACOG</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$197" name="st_addon_scope_acog_descr">
+      <segment state="translated">
+        <source>st_addon_scope_acog_descr</source>
+        <target>
+        <text>Advanced Combat Optical Gunsights are a series of telescopic sights manufactured by Trijicon. Can be mounted on NATO assault rifles and sub-machine guns as well as the AK-12.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$198" name="st_addon_scope_ac11090">
+      <segment state="translated">
+        <source>st_addon_scope_ac11090</source>
+        <target>
+        <text>AC11090 Red Dot Sight</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$199" name="st_addon_scope_ac11090_descr">
+      <segment state="translated">
+        <source>st_addon_scope_ac11090_descr</source>
+        <target>
+        <text>Cheap 2x magnification red dot sight for NATO assault rifles and sub-machine guns.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$200" name="st_addon_scope_eotech">
+      <segment state="translated">
+        <source>st_addon_scope_eotech</source>
+        <target>
+        <text>EO-Tech Sight</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$201" name="st_addon_scope_eotech_descr">
+      <segment state="translated">
+        <source>st_addon_scope_eotech_descr</source>
+        <target>
+        <text>Holographic sight for NATO assault rifles and sub-machine guns</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$202" name="st_addon_scope_c-more">
+      <segment state="translated">
+        <source>st_addon_scope_c-more</source>
+        <target>
+        <text>C-MORE Tactical Sight</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$203" name="st_addon_scope_c-more_descr">
+      <segment state="translated">
+        <source>st_addon_scope_c-more_descr</source>
+        <target>
+        <text>High performance red dot sight that provides an unlimited field of view, while eliminating obstruction and tunnel vision common to tube style scopes.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$204" name="ammo-m134">
+      <segment state="translated">
+        <source>ammo-m134</source>
+        <target>
+        <text>M134 Belt</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$205" name="ammo-m134_descr">
+      <segment state="translated">
+        <source>ammo-m134_descr</source>
+        <target>
+        <text>200 round belt of 7.62x51 NATO used in the M134 Minigun.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$206" name="ammo-5.7x28_ss190">
+      <segment state="translated">
+        <source>ammo-5.7x28_ss190</source>
+        <target>
+        <text>5.7x28 SS190</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$207" name="ammo-5.7x28_ss190_descr">
+      <segment state="translated">
+        <source>ammo-5.7x28_ss190_descr</source>
+        <target>
+        <text>Standard issue NATO round with a steel penetrator and an aluminum core. Moderately effective against light body armor.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$208" name="ammo-5.7x28_ss192">
+      <segment state="translated">
+        <source>ammo-5.7x28_ss192</source>
+        <target>
+        <text>5.7x28 SS192</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$209" name="ammo-5.7x28_ss192_descr">
+      <segment state="translated">
+        <source>ammo-5.7x28_ss192_descr</source>
+        <target>
+        <text>Hollow point round with a copper jacket and an aluminum core. The bullet fragments on impact increasing damage to soft tissue. Not effective against body armor.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$210" name="ammo-4.6x30_ap">
+      <segment state="translated">
+        <source>ammo-4.6x30_ap</source>
+        <target>
+        <text>4.6x30 DM11</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$211" name="ammo-4.6x30_ap_descr">
+      <segment state="translated">
+        <source>ammo-4.6x30_ap_descr</source>
+        <target>
+        <text>Bundesheer version of the 4.6mm round with a copper plated steel bullet designed for the MP7, optimized to defeat body armor.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$212" name="ammo-4.6x30_fmj">
+      <segment state="translated">
+        <source>ammo-4.6x30_fmj</source>
+        <target>
+        <text>4.6x30 FMJ</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$213" name="ammo-4.6x30_fmj_descr">
+      <segment state="translated">
+        <source>ammo-4.6x30_fmj_descr</source>
+        <target>
+        <text>Full metal jacket projectile with a PbSb – alloy core and a steel copper plated jacket designed for the MP7, optimized for energy transfer in soft targets and precision.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$214" name="ammo-4.6x30_ap-189fd484a766f30c7e0e5549b62452fe">
+      <segment state="translated">
+        <source>ammo-4.6x30_ap</source>
+        <target>
+        <text>4.6x30 DM11</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$215" name="ammo-4.6x30_ap_descr-738e74c0ba8e95b3b8551a3b0c4c3f1a">
+      <segment state="translated">
+        <source>ammo-4.6x30_ap_descr</source>
+        <target>
+        <text>Bundesheer version of the 4.6mm round with a copper plated steel bullet designed for the MP7, optimized to defeat body armor.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$216" name="ammo-12.7x55">
+      <segment state="translated">
+        <source>ammo-12.7x55</source>
+        <target>
+        <text>12.7x55 STs-130</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$217" name="ammo-12.7x55_descr">
+      <segment state="translated">
+        <source>ammo-12.7x55_descr</source>
+        <target>
+        <text>The 12.7x55mm subsonic cartridge is used in the VKS bullpup sniper rifle. The cartridge can carries a projectile weighing 76 grams, yielding massive amounts of kinetic energy. The round can penetrate up to 16 mm of steel at 200 meters or heavy body armor at 100 meters. The accuracy of this cartridge is claimed as to be 1 MOA at 100 meters range.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$218" name="ammo_23x75_buck">
+      <segment state="translated">
+        <source>ammo_23x75_buck</source>
+        <target>
+        <text>23mm Shrapnel-25</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$219" name="ammo_23x75_buck_descr">
+      <segment state="translated">
+        <source>ammo_23x75_buck_descr</source>
+        <target>
+        <text>23x75 buckshot with a range of 25 meters.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$220" name="ammo-23x75-zhekan">
+      <segment state="translated">
+        <source>ammo-23x75-zhekan</source>
+        <target>
+        <text>23mm Barrikada</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$221" name="ammo-23x75-zhekan_descr">
+      <segment state="translated">
+        <source>ammo-23x75-zhekan_descr</source>
+        <target>
+        <text>23x75 solid steel slug with a range of 100 meters. Used outside The Zone by Police forces to knock out engine blocks.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$222" name="ammo-9x19-7n21">
+      <segment state="translated">
+        <source>ammo-9x19-7n21</source>
+        <target>
+        <text>9x19 7N21</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$223" name="ammo-9x19-7n21_descr">
+      <segment state="translated">
+        <source>ammo-9x19-7n21_descr</source>
+        <target>
+        <text>Russian Army 9x19 overpressure armour piercing rounds. The 7N21 bullet features a hardened sub-caliber steel core. Capable of penetrating body armor out to 40 meters. Used in the MP-443, GSh-18 pistols PP2000 sub machine gun.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$224" name="ammo-7.62x25_fmj">
+      <segment state="translated">
+        <source>ammo-7.62x25_fmj</source>
+        <target>
+        <text>7.62x25 PS</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$225" name="ammo-7.62x25_fmj_descr">
+      <segment state="translated">
+        <source>ammo-7.62x25_fmj_descr</source>
+        <target>
+        <text>Surplus 7.62x25 Soviet military rounds adopted in 1953, standard loading with a steel cored bullet.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$226" name="ammo-7.62x25_hp">
+      <segment state="translated">
+        <source>ammo-7.62x25_hp</source>
+        <target>
+        <text>7.62x25 HP</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$227" name="ammo-7.62x25_hp_descr">
+      <segment state="translated">
+        <source>ammo-7.62x25_hp_descr</source>
+        <target>
+        <text>Hollow point 7.62x25 rounds. The bullet fragments on impact increasing damage to soft tissue. Not effective against body armor.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$228" name="ammo-10x22_fmj">
+      <segment state="translated">
+        <source>ammo-10x22_fmj</source>
+        <target>
+        <text>.40 S&amp;W FMJ</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$229" name="ammo-10x22_fmj_descr">
+      <segment state="translated">
+        <source>ammo-10x22_fmj_descr</source>
+        <target>
+        <text>Full metal jacket .40 S&amp;W (10x22mm) rounds. The .40 S&amp;W round has been popular with law enforcement agencies in the United States, Canada, and Australia. While possessing nearly identical accuracy, drift and drop it is much more powerful than the 9x19 round and with more manageable recoil than the 10mm Auto.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$230" name="ammo-10x22_hp">
+      <segment state="translated">
+        <source>ammo-10x22_hp</source>
+        <target>
+        <text>.40 S&amp;W JHP</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$231" name="ammo-10x22_hp_descr">
+      <segment state="translated">
+        <source>ammo-10x22_hp_descr</source>
+        <target>
+        <text>Jacketed Hollow point .40 S&amp;W (10x22mm) rounds. The bullet fragments on impact with soft tissue maximizing tissue damage, blood loss and shock. The .40 S&amp;W round has been popular with law enforcement agencies in the United States, Canada, and Australia. While possessing nearly identical accuracy, drift and drop it is much more powerful than the 9x19 round and with more manageable recoil than the 10mm Auto.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$232" name="ammo-10x25_hp">
+      <segment state="translated">
+        <source>ammo-10x25_hp</source>
+        <target>
+        <text>10mm Auto JHP</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$233" name="ammo-10x25_hp_descr">
+      <segment state="translated">
+        <source>ammo-10x25_hp_descr</source>
+        <target>
+        <text>Jacketed hollow point 10mm Auto rounds. Provides greater stopping power than the .45 ACP round without a loss in muzzle velocity. The bullet expands on impact with soft tissue maximizing tissue damage, blood loss and shock.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$234" name="ammo-10x25_fmj">
+      <segment state="translated">
+        <source>ammo-10x25_fmj</source>
+        <target>
+        <text>10mm Auto FMJ</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$235" name="ammo-10x25_fmj_descr">
+      <segment state="translated">
+        <source>ammo-10x25_fmj_descr</source>
+        <target>
+        <text>Full metal jacket 10mm Auto rounds. Provides greater stopping power than the .45 ACP round without a loss in muzzle velocity.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$236" name="ammo-357_fmj">
+      <segment state="translated">
+        <source>ammo-357_fmj</source>
+        <target>
+        <text>.357 Magnum FMJ</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$237" name="ammo-357_fmj_descr">
+      <segment state="translated">
+        <source>ammo-357_fmj_descr</source>
+        <target>
+        <text>The .357 Magnum round (9x33mm) is regarded as the gold standard of stopping power among handgun cartridges and a reliable one shot killer at close range. Very effective against the lesser mutants and unarmored targets.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$238" name="ammo-357_hp">
+      <segment state="translated">
+        <source>ammo-357_hp</source>
+        <target>
+        <text>.357 Magnum JHP</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$239" name="ammo-357_hp_descr">
+      <segment state="translated">
+        <source>ammo-357_hp_descr</source>
+        <target>
+        <text>Jacketed hollow point .357 Magnum (9x33mm) rounds. The bullet framents on impact causing heavy damage to soft tissue. </text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$240" name="ammo-50ae_fmj">
+      <segment state="translated">
+        <source>ammo-50ae_fmj</source>
+        <target>
+        <text>.50 AE FMJ</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$241" name="ammo-50ae_fmj_descr">
+      <segment state="translated">
+        <source>ammo-50ae_fmj_descr</source>
+        <target>
+        <text>The .50 Action Express (12.7x33mm) is a large caliber handgun round. It was developed in 1988 by Evan Whildin of Action Arms. It is one of the most powerful pistol rounds in production. It's primary uses are silhouette shooting and medium/big game hunting.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$242" name="ammo-50ae_hp">
+      <segment state="translated">
+        <source>ammo-50ae_hp</source>
+        <target>
+        <text>.50 AE JHP</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$243" name="ammo-50ae_hp_descr">
+      <segment state="translated">
+        <source>ammo-50ae_hp_descr</source>
+        <target>
+        <text>Jacketed hollow point .50 Action Express (12.7x33mm) rounds. The bullet framents on impact causing heavy damage to soft tissue. </text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$244" name="ammo-7.62x39-fmj">
+      <segment state="translated">
+        <source>ammo-7.62x39-fmj</source>
+        <target>
+        <text>7.62x39 PS</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$245" name="ammo-7.62x39-fmj_descr">
+      <segment state="translated">
+        <source>ammo-7.62x39-fmj_descr</source>
+        <target>
+        <text>Standard military issue 7.62x39 rounds with a full metal jacket. A good general purpose round for dealing with the many threats a Stalker encounters in The Zone.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$246" name="ammo-7.62x39-ap">
+      <segment state="translated">
+        <source>ammo-7.62x39-ap</source>
+        <target>
+        <text>7.62x39 BP</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$247" name="ammo-7.62x39-ap_descr">
+      <segment state="translated">
+        <source>ammo-7.62x39-ap_descr</source>
+        <target>
+        <text>7.62x39 black tipped armor-piercing rounds. Effective against body armor.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$248" name="ammo-6.8x43_fmj">
+      <segment state="translated">
+        <source>ammo-6.8x43_fmj</source>
+        <target>
+        <text>6.8x43 FMJ</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$249" name="ammo-6.8x43_fmj_descr">
+      <segment state="translated">
+        <source>ammo-6.8x43_fmj_descr</source>
+        <target>
+        <text>The 6.8 Remington Special Purpose round is a rifle round that was developed by Remington Arms in collaboration with members of the U.S. Army to possibly replace the 5.56 NATO round. It is midway between the 5.56x45mm NATO and 7.62x51mm NATO in diameter and muzzle energy, slightly more poweful than the 7.62x39 round. </text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$250" name="ammo-6.8x43_sst">
+      <segment state="translated">
+        <source>ammo-6.8x43_sst</source>
+        <target>
+        <text>6.8x43 SST</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$251" name="ammo-6.8x43_sst_descr">
+      <segment state="translated">
+        <source>ammo-6.8x43_sst_descr</source>
+        <target>
+        <text>Short for "Super Shock Tip" the SST round is designed to deliver tremendous shock on impact while expanding quickly and reliably.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$252" name="ammo-7.62x51_fmj">
+      <segment state="translated">
+        <source>ammo-7.62x51_fmj</source>
+        <target>
+        <text>7.62x51 M80</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$253" name="ammo_7.62x51_fmj_descr">
+      <segment state="translated">
+        <source>ammo_7.62x51_fmj_descr</source>
+        <target>
+        <text>Standard military issue 7.62x51mm NATO rounds with a full metal jacket. Excellent stopping power and moderate armor penetration.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$254" name="ammo-7.62x51_ap">
+      <segment state="translated">
+        <source>ammo-7.62x51_ap</source>
+        <target>
+        <text>7.62x51 M993</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$255" name="ammo_7.62x51_ap_descr">
+      <segment state="translated">
+        <source>ammo_7.62x51_ap_descr</source>
+        <target>
+        <text>7.62x51 NATO armor-piercing rounds with a tungsten core. Pierces any known body armor in The Zone.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$256" name="ammo-7.62x54-fmj">
+      <segment state="translated">
+        <source>ammo-7.62x54-fmj</source>
+        <target>
+        <text>7.62x54 FMJ</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$257" name="ammo-7.62x54-fmj_descr">
+      <segment state="translated">
+        <source>ammo-7.62x54-fmj_descr</source>
+        <target>
+        <text>7.62x54 rounds with a full metal jacket and lead core. A good general purpose round for hunting and long range combat. </text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$258" name="ammo-8.58x70_ap">
+      <segment state="translated">
+        <source>ammo-8.58x70_ap</source>
+        <target>
+        <text>.338 Lapua AP</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$259" name="ammo_8.58x70_ap_descr">
+      <segment state="translated">
+        <source>ammo_8.58x70_ap_descr</source>
+        <target>
+        <text>Military grade armor piercing .338 Lapua Magnum rounds. Designed for accuracy and penetration. It will defeat any known body armor in The Zone.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$260" name="ammo-8.58x70_jsp">
+      <segment state="translated">
+        <source>ammo-8.58x70_jsp</source>
+        <target>
+        <text>.338 Lapua JSP</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$261" name="ammo-8.58x70_jsp_descr">
+      <segment state="translated">
+        <source>ammo-8.58x70_jsp_descr</source>
+        <target>
+        <text>Jacketed soft point .338 Lapua Magnum rounds. Designed for hunting purposes, the bullet expands on impact with soft tissue damage creating a larger diameter wound to maximize stopping power.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$262" name="ammo-50_beowulf_hp">
+      <segment state="translated">
+        <source>ammo-50_beowulf_hp</source>
+        <target>
+        <text>.50 Beowulf HP</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$263" name="ammo-50_beowulf_hp_descr">
+      <segment state="translated">
+        <source>ammo-50_beowulf_hp_descr</source>
+        <target>
+        <text>Hollow point .50 Beowulf (12.7x42) rounds. The bullet framents on impact causing tremendous damage to soft tissue.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$264" name="ammo-50_beowulf_jfp">
+      <segment state="translated">
+        <source>ammo-50_beowulf_jfp</source>
+        <target>
+        <text>.50 Beowulf JFP</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$265" name="ammo-50_beowulf_jfp_descr">
+      <segment state="translated">
+        <source>ammo-50_beowulf_jfp_descr</source>
+        <target>
+        <text>Jacketed flat point  .50 Beowulf (12.7x42) rounds. The bullet expands on impact, crushing through body armor and causing tremendous tissue damage.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$266" name="ammo-11.43x23-fmj">
+      <segment state="translated">
+        <source>ammo-11.43x23-fmj</source>
+        <target>
+        <text>.45 ACP rounds</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$267" name="ammo-11.43x23-fmj_descr">
+      <segment state="translated">
+        <source>ammo-11.43x23-fmj_descr</source>
+        <target>
+        <text>The .45 caliber full metal jacket round has enjoyed popularity for more than a hundred years thanks to its heavy bullet and a relatively small propelling charge. As a result, the bullet in this round is relatively slow but highly accurate and provides considerable stopping power.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$268" name="ammo-11.43x23-fmj_s">
+      <segment state="translated">
+        <source>ammo-11.43x23-fmj_s</source>
+        <target>
+        <text>.45 ACP</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$269" name="ammo-11.43x23-hydro">
+      <segment state="translated">
+        <source>ammo-11.43x23-hydro</source>
+        <target>
+        <text>.45 ACP Hydrashock</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$270" name="ammo-11.43x23-hydro_descr">
+      <segment state="translated">
+        <source>ammo-11.43x23-hydro_descr</source>
+        <target>
+        <text>This unusual .45 ACP caliber round is comprised of a jacketed soft point bullet with an expanding hollow and a steel core.  It is a combination of jacketed expanding soft point and armor piercing bullets, benefiting, from the advantages of both and, suffering from their downsides.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$271" name="ammo-11.43x23-hydro_s">
+      <segment state="translated">
+        <source>ammo-11.43x23-hydro_s</source>
+        <target>
+        <text>.45 Hydro</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$272" name="ammo-12x70-buck">
+      <segment state="translated">
+        <source>ammo-12x70-buck</source>
+        <target>
+        <text>12x70 Buckshot</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$273" name="ammo-12x70-buck_descr">
+      <segment state="translated">
+        <source>ammo-12x70-buck_descr</source>
+        <target>
+        <text>Standard 12 gauge double ought buckshot. Contains 8 x 8.4mm lead shot. Highly lethal                             at close range.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$274" name="ammo-12x70-buck_s">
+      <segment state="translated">
+        <source>ammo-12x70-buck_s</source>
+        <target>
+        <text>12x70 Buckshot</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$275" name="ammo-12x76-zhekan">
+      <segment state="translated">
+        <source>ammo-12x76-zhekan</source>
+        <target>
+        <text>12x76 Slug</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$276" name="ammo-12x76-zhekan_descr">
+      <segment state="translated">
+        <source>ammo-12x76-zhekan_descr</source>
+        <target>
+        <text>Standard 12 gauge slug. Normally used for hunting big game, but is also good for other purposes. Instead of piercing, this heavy slug simply crushes through armor. </text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$277" name="ammo-12x76-zhekan_s">
+      <segment state="translated">
+        <source>ammo-12x76-zhekan_s</source>
+        <target>
+        <text>12x76 Slug</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$278" name="ammo-5.45x39-ap">
+      <segment state="translated">
+        <source>ammo-5.45x39-ap</source>
+        <target>
+        <text>5.45x39 BP</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$279" name="ammo-5.45x39-ap_descr">
+      <segment state="translated">
+        <source>ammo-5.45x39-ap_descr</source>
+        <target>
+        <text>Military 5.45x39 7N22 caliber armor-piercing round for automatic rifles of Warsaw Pact countries. The bullet contains a tungsten armor piercing penetrator. Effective against body armor.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$280" name="ammo-5.45x39-ap_s">
+      <segment state="translated">
+        <source>ammo-5.45x39-ap_s</source>
+        <target>
+        <text>5.45 BP</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$281" name="ammo-5.45x39-fmj">
+      <segment state="translated">
+        <source>ammo-5.45x39-fmj</source>
+        <target>
+        <text>5.45x39 PP</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$282" name="ammo-5.45x39-fmj_descr">
+      <segment state="translated">
+        <source>ammo-5.45x39-fmj_descr</source>
+        <target>
+        <text>Military 5.45x39 7N10 caliber improved piercing round for automatic rifles of Warsaw Pact countries. Provides better accuracy than the 7.62 caliber round thanks to reduced recoil and a 100 meter increase in range.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$283" name="ammo-5.45x39-fmj_s">
+      <segment state="translated">
+        <source>ammo-5.45x39-fmj_s</source>
+        <target>
+        <text>5.45 PP</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$284" name="ammo-5.56x45-ap">
+      <segment state="translated">
+        <source>ammo-5.56x45-ap</source>
+        <target>
+        <text>5.56x45 M995</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$285" name="ammo-5.56x45-ap_descr">
+      <segment state="translated">
+        <source>ammo-5.56x45-ap_descr</source>
+        <target>
+        <text>A common NATO military 5.56x45 tungsten armor piercing round, known under its widely used by Western security agencies and special services. Effective against body armor.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$286" name="ammo-5.56x45-ap_s">
+      <segment state="translated">
+        <source>ammo-5.56x45-ap_s</source>
+        <target>
+        <text>5.56 M995</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$287" name="ammo-5.56x45-ss190">
+      <segment state="translated">
+        <source>ammo-5.56x45-ss190</source>
+        <target>
+        <text>5.56x45 SS109</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$288" name="ammo-5.56x45-ss190_descr">
+      <segment state="translated">
+        <source>ammo-5.56x45-ss190_descr</source>
+        <target>
+        <text>A standard issue NATO 5.56x45 caliber round specially designed for accurate automatic fire. Provides good ballistic characteristics, having been designed on the basis of a hunting round. Widely known under its SS109 index.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$289" name="ammo-5.56x45-ss190_s">
+      <segment state="translated">
+        <source>ammo-5.56x45-ss190_s</source>
+        <target>
+        <text>5.56 SS109</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$290" name="ammo-7.62x54-7h14">
+      <segment state="translated">
+        <source>ammo-7.62x54-7h14</source>
+        <target>
+        <text>7.62x54 SNB</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$291" name="ammo-7.62x54-7h14_descr">
+      <segment state="translated">
+        <source>ammo-7.62x54-7h14_descr</source>
+        <target>
+        <text>Russian 7.62x54R 7N14 sniper round with a steel penetrator specially designed for the SVD. Unlike the machine gun round, the 7N14 provides tight groupings and excellent penetration characteristics.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$292" name="ammo-7.62x54-7h14_s">
+      <segment state="translated">
+        <source>ammo-7.62x54-7h14_s</source>
+        <target>
+        <text>7.62 SNB</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$293" name="ammo-7.62x54-ap">
+      <segment state="translated">
+        <source>ammo-7.62x54-ap</source>
+        <target>
+        <text>7.62x54 PP</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$294" name="ammo-7.62x54-ap_descr">
+      <segment state="translated">
+        <source>ammo-7.62x54-ap_descr</source>
+        <target>
+        <text>Cheap 7.62 caliber machine gun round. Its design makes it unsuitable for sniper rifles, so it is used only with the RP-74 machine gun.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$295" name="ammo-7.62x54-ap_s">
+      <segment state="translated">
+        <source>ammo-7.62x54-ap_s</source>
+        <target>
+        <text>7.62x54 PP</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$296" name="ammo-9x18-fmj">
+      <segment state="translated">
+        <source>ammo-9x18-fmj</source>
+        <target>
+        <text>9x18 FMJ</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$297" name="ammo-9x18-fmj_descr">
+      <segment state="translated">
+        <source>ammo-9x18-fmj_descr</source>
+        <target>
+        <text>A full metal jacket round with a steel penetrator and a lead core under a metal jacket. Provides good stopping power but is ineffective against body armor.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$298" name="ammo-9x18-fmj_s">
+      <segment state="translated">
+        <source>ammo-9x18-fmj_s</source>
+        <target>
+        <text>9x18 FMJ</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$299" name="ammo-9x18-pmm">
+      <segment state="translated">
+        <source>ammo-9x18-pmm</source>
+        <target>
+        <text>9x18 SP-7</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$300" name="ammo-9x18-pmm_descr">
+      <segment state="translated">
+        <source>ammo-9x18-pmm_descr</source>
+        <target>
+        <text>Hollow point 9x18 rounds, provides more stopping power against soft targets. The bullet expands on impact with soft tissue maximizing tissue damage, blood loss and shock.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$301" name="ammo-9x18-pmm_s">
+      <segment state="translated">
+        <source>ammo-9x18-pmm_s</source>
+        <target>
+        <text>9x18 SP-7</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$302" name="ammo-9x19-fmj">
+      <segment state="translated">
+        <source>ammo-9x19-fmj</source>
+        <target>
+        <text>9x19 FMJ</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$303" name="ammo-9x19-fmj_descr">
+      <segment state="translated">
+        <source>ammo-9x19-fmj_descr</source>
+        <target>
+        <text>The 9 mm Parabellum (9x19) round was designed by Georg Luger and introduced in 1902 by the German weapons manufacturer DWM for the P08 Luger. The 9 mm round has been manufactured by, or for, more than 70 different countries and has become a standard pistol caliber for NATO and other military forces around the world. While the NATO standards do not specify the type of bullet to be used, Declaration III of the Hague Convention of 1899 prohibits the use of expanding ammunition in warfare by signatories, therefore the official 9 mm NATO bullet has a full metal jacket.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$304" name="ammo-9x19-fmj_s">
+      <segment state="translated">
+        <source>ammo-9x19-fmj_s</source>
+        <target>
+        <text>9x19 FMJ</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$305" name="ammo-9x19-pbp">
+      <segment state="translated">
+        <source>ammo-9x19-pbp</source>
+        <target>
+        <text>9x19 JHP</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$306" name="ammo-9x19-pbp_descr">
+      <segment state="translated">
+        <source>ammo-9x19-pbp_descr</source>
+        <target>
+        <text>This 9x19 caliber jacketed hollow point bullet with an expanding hollow provides high stopping power and low ricochet propensity. Used by police and for self-defense. Ineffective against body armor due to its low penetration potential.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$307" name="ammo-9x19-pbp_s">
+      <segment state="translated">
+        <source>ammo-9x19-pbp_s</source>
+        <target>
+        <text>9x19 JHP</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$308" name="ammo-9x39-ap">
+      <segment state="translated">
+        <source>ammo-9x39-ap</source>
+        <target>
+        <text>9x39 SP-6</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$309" name="ammo-9x39-ap_descr">
+      <segment state="translated">
+        <source>ammo-9x39-ap_descr</source>
+        <target>
+        <text>The SP-6 is a subsonic assault rifle round with a jacketed soft point bullet with a hard steel core that protrudes from the casing. Requires a silencer for stealth firing. Used by special services of Warsaw Pact countries. Effective against body armor.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$310" name="ammo-9x39-ap_s">
+      <segment state="translated">
+        <source>ammo-9x39-ap_s</source>
+        <target>
+        <text>9x39 SP-6</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$311" name="ammo-9x39-pab9">
+      <segment state="translated">
+        <source>ammo-9x39-pab9</source>
+        <target>
+        <text>9x39 SP-5</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$312" name="ammo-9x39-pab9_descr">
+      <segment state="translated">
+        <source>ammo-9x39-pab9_descr</source>
+        <target>
+        <text>The SP-5 is a subsonic sniper round with a bimetallic casing. The round contains a steel core with a gap behind it that is filled with lead. Requires a silencer for stealth firing. Used by special services of Warsaw Pact countries.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$313" name="ammo-9x39-pab9_s">
+      <segment state="translated">
+        <source>ammo-9x39-pab9_s</source>
+        <target>
+        <text>9x39 mm SP-5</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$314" name="ammo-gauss">
+      <segment state="translated">
+        <source>ammo-gauss</source>
+        <target>
+        <text>Batteries</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$315" name="ammo-m209">
+      <segment state="translated">
+        <source>ammo-m209</source>
+        <target>
+        <text>M203 grenade</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$316" name="ammo-m209_descr">
+      <segment state="translated">
+        <source>ammo-m209_descr</source>
+        <target>
+        <text>40 mm grenade for the M203 underbarrel grenade launcher. This round has a 5 meter kill zone. Also suitable for use in the FT-200M integrated grenade launcher.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$317" name="ammo-m209_s">
+      <segment state="translated">
+        <source>ammo-m209_s</source>
+        <target>
+        <text>M203 grenade</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$318" name="ammo-og-7b">
+      <segment state="translated">
+        <source>ammo-og-7b</source>
+        <target>
+        <text>OG-7V warhead</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$319" name="ammo-og-7b_descr">
+      <segment state="translated">
+        <source>ammo-og-7b_descr</source>
+        <target>
+        <text>Fragmentation warhead for anti-personnel warfare used with the RPG-7u grenade launcher. The main purpose of the warhead is to kill enemies in cover outside the range of hand grenades using the RPG-7u launcher.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$320" name="ammo-og-7b_s">
+      <segment state="translated">
+        <source>ammo-og-7b_s</source>
+        <target>
+        <text>OG-7V</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$321" name="ammo-vog-25">
+      <segment state="translated">
+        <source>ammo-vog-25</source>
+        <target>
+        <text>VOG-25 grenade</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$322" name="ammo-vog-25_descr">
+      <segment state="translated">
+        <source>ammo-vog-25_descr</source>
+        <target>
+        <text>Regular fragmentation grenade for the GP-25 Koster underbarrel grenade launcher. This round has a 5 meter kill zone. The VOG-25 grenade is also used in the Tunder S14 complex and Bulldog 6 revolver-type grenade launcher.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$323" name="ammo-vog-25_s">
+      <segment state="translated">
+        <source>ammo-vog-25_s</source>
+        <target>
+        <text>VOG-25</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$324" name="st_addon_scope">
+      <segment state="translated">
+        <source>st_addon_scope</source>
+        <target>
+        <text>PSO Scope</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$325" name="st_addon_scope_descr">
+      <segment state="translated">
+        <source>st_addon_scope_descr</source>
+        <target>
+        <text>A common Soviet-made 5.0x fixed zoom optical scope with a range scale. Attached to weapons by means of a dovetail mount, which is standard in Warsaw Pact countries.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$326" name="st_addon_scope_detector">
+      <segment state="translated">
+        <source>st_addon_scope_detector</source>
+        <target>
+        <text>PSS-2x scope</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$327" name="st_addon_scope_detector_descr">
+      <segment state="translated">
+        <source>st_addon_scope_detector_descr</source>
+        <target>
+        <text>A 5.0x fixed zoom optical scope with a built-in heat visor used to identify heat sources typical of the human body. Designed for use by special forces. Attached to weapons by means of a dovetail mount.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$328" name="st_addon_scope_night_vision">
+      <segment state="translated">
+        <source>st_addon_scope_night_vision</source>
+        <target>
+        <text>NSPU-3 scope</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$329" name="st_addon_scope_night_vision_descr">
+      <segment state="translated">
+        <source>st_addon_scope_night_vision_descr</source>
+        <target>
+        <text>An image intensifier night vision 5.0x fixed zoom scope for combat in darkness. Attached to weapons by means of a dovetail mount.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$330" name="st_addon_scope_susat">
+      <segment state="translated">
+        <source>st_addon_scope_susat</source>
+        <target>
+        <text>SUSAT 4x scope</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$331" name="st_addon_scope_susat_custom_descr">
+      <segment state="translated">
+        <source>st_addon_scope_susat_custom_descr</source>
+        <target>
+        <text>An adjustable long-range 1.6-4x zoom scope that can use automatic adjustment to provide greater fire effectiveness. Attached to weapons by means of the NATO-standard Picatinny rail.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$332" name="st_addon_scope_susat_descr">
+      <segment state="translated">
+        <source>st_addon_scope_susat_descr</source>
+        <target>
+        <text>A 4x fixed zoom scope produced primarily in Western countries. Attached to weapons by means of the NATO-standard Picatinny rail. Often used for accurate fire from small arms at medium to long range.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$333" name="st_addon_scope_susat_dusk">
+      <segment state="translated">
+        <source>st_addon_scope_susat_dusk</source>
+        <target>
+        <text>SUSAT Twilight x1.6 scope</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$334" name="st_addon_scope_susat_dusk_descr">
+      <segment state="translated">
+        <source>st_addon_scope_susat_dusk_descr</source>
+        <target>
+        <text>An optical SUSAT 1.6x higher contrast scope for combat in reduced lighting conditions. Attached to weapons by means of the NATO-standard Picatinny rail.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$335" name="st_addon_scope_susat_night_vision">
+      <segment state="translated">
+        <source>st_addon_scope_susat_night_vision</source>
+        <target>
+        <text>SUSAT Night x4 scope</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$336" name="st_addon_scope_susat_night_vision_descr">
+      <segment state="translated">
+        <source>st_addon_scope_susat_night_vision_descr</source>
+        <target>
+        <text>A 4.0x fixed zoom scope with a night vision device for long range combat in darkness. Attached to weapons by means of the NATO-standard Picatinny rail.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$337" name="st_addon_scope_susat_x1.6">
+      <segment state="translated">
+        <source>st_addon_scope_susat_x1.6</source>
+        <target>
+        <text>SUSAT 1.6x scope</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$338" name="st_addon_scope_susat_x1.6_descr">
+      <segment state="translated">
+        <source>st_addon_scope_susat_x1.6_descr</source>
+        <target>
+        <text>An optical SUSAT 1.6x scope for combat at short to medium range. Attached to weapons by means of the NATO-standard Picatinny rail.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$339" name="st_addon_scope_x2.7">
+      <segment state="translated">
+        <source>st_addon_scope_x2.7</source>
+        <target>
+        <text>PSU-1 scope</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$340" name="st_addon_scope_x2.7_descr">
+      <segment state="translated">
+        <source>st_addon_scope_x2.7_descr</source>
+        <target>
+        <text>A 2.7x optical scope for urban combat at medium range. Attached to weapons by means of a dovetail mount.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$341" name="st_addon_silencer">
+      <segment state="translated">
+        <source>st_addon_silencer</source>
+        <target>
+        <text>9mm Suppressor</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$342" name="st_addon_silencer_descr">
+      <segment state="translated">
+        <source>st_addon_silencer_descr</source>
+        <target>
+        <text>Suppressor for 9mm pistols and sub-machine guns</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$343" name="st_addon_silencer57">
+      <segment state="translated">
+        <source>st_addon_silencer57</source>
+        <target>
+        <text>5.7 Suppressor</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$344" name="st_addon_silencer57_descr">
+      <segment state="translated">
+        <source>st_addon_silencer57_descr</source>
+        <target>
+        <text>Suppressor for the FN P90</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$345" name="st_addon_silencer46">
+      <segment state="translated">
+        <source>st_addon_silencer46</source>
+        <target>
+        <text>4.6mm Suppressor</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$346" name="st_addon_silencer46_descr">
+      <segment state="translated">
+        <source>st_addon_silencer46_descr</source>
+        <target>
+        <text>Suppressor for the MP7 PDW</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$347" name="st_addon_silencer50">
+      <segment state="translated">
+        <source>st_addon_silencer50</source>
+        <target>
+        <text>.50 Suppressor</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$348" name="st_addon_silencer9x39">
+      <segment state="translated">
+        <source>st_addon_silencer9x39</source>
+        <target>
+        <text>9x39 Suppressor</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$349" name="st_addon_silencer10">
+      <segment state="translated">
+        <source>st_addon_silencer10</source>
+        <target>
+        <text>10mm Suppressor</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$350" name="st_addon_silencer12">
+      <segment state="translated">
+        <source>st_addon_silencer12</source>
+        <target>
+        <text>12 Gauge Suppressor</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$351" name="st_addon_silencer45">
+      <segment state="translated">
+        <source>st_addon_silencer45</source>
+        <target>
+        <text>.45 ACP Suppressor</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$352" name="st_addon_silencer545">
+      <segment state="translated">
+        <source>st_addon_silencer545</source>
+        <target>
+        <text>5.45 Suppressor</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$353" name="st_addon_silencer556">
+      <segment state="translated">
+        <source>st_addon_silencer556</source>
+        <target>
+        <text>5.56 Suppressor</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$354" name="st_addon_silencer68">
+      <segment state="translated">
+        <source>st_addon_silencer68</source>
+        <target>
+        <text>6.8 Suppressor</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$355" name="st_addon_silencer762">
+      <segment state="translated">
+        <source>st_addon_silencer762</source>
+        <target>
+        <text>7.62 Suppressor</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$356" name="st_addon_silencer10_descr">
+      <segment state="translated">
+        <source>st_addon_silencer10_descr</source>
+        <target>
+        <text>Suppressor for 10mm Auto and .40 S&amp;W pistols and sub-machine guns</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$357" name="st_addon_silencer12_descr">
+      <segment state="translated">
+        <source>st_addon_silencer12_descr</source>
+        <target>
+        <text>Suppressor for the Saiga 12K shotgun</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$358" name="st_addon_silencer45_descr">
+      <segment state="translated">
+        <source>st_addon_silencer45_descr</source>
+        <target>
+        <text>Suppressor for .45 ACP pistols and sub-machine guns</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$359" name="st_addon_silencer50_descr">
+      <segment state="translated">
+        <source>st_addon_silencer50_descr</source>
+        <target>
+        <text>Suppressor for .50 caliber rifles</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$360" name="st_addon_silencer545_descr">
+      <segment state="translated">
+        <source>st_addon_silencer545_descr</source>
+        <target>
+        <text>Suppressor for 5.45x39 assault rifles</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$361" name="st_addon_silencer556_descr">
+      <segment state="translated">
+        <source>st_addon_silencer556_descr</source>
+        <target>
+        <text>Suppressor for 5.56x45 assault rifles</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$362" name="st_addon_silencer68_descr">
+      <segment state="translated">
+        <source>st_addon_silencer68_descr</source>
+        <target>
+        <text>Suppressor for 6.8x43 assault rifles</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$363" name="st_addon_silencer762_descr">
+      <segment state="translated">
+        <source>st_addon_silencer762_descr</source>
+        <target>
+        <text>Suppressor for 7.62 caliber assault rifles and the SVD sniper rifle</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$364" name="st_addon_silencer9x39_descr">
+      <segment state="translated">
+        <source>st_addon_silencer9x39_descr</source>
+        <target>
+        <text>Suppressor for the 9A-91 and SR-3M carbines</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$365" name="st_grenade_f1">
+      <segment state="translated">
+        <source>st_grenade_f1</source>
+        <target>
+        <text>F1 grenade</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$366" name="st_grenade_f1_descr">
+      <segment state="translated">
+        <source>st_grenade_f1_descr</source>
+        <target>
+        <text>A defensive hand grenade, with fragments capable of piercing medium level body armor. The grenade has a 7 meter kill radius. Stalkers get F1 grenades from trading with the military, who write them off as having been used for fighting mutants.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$367" name="st_grenade_launcher">
+      <segment state="translated">
+        <source>st_grenade_launcher</source>
+        <target>
+        <text>GP-25 Kostyor</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$368" name="st_grenade_launcher_descr">
+      <segment state="translated">
+        <source>st_grenade_launcher_descr</source>
+        <target>
+        <text>A single shot, front loaded, rifled underbarrel grenade launcher for assault rifles made in Warsaw Pact countries. The firing mechanism is self-cocking, with a manual safety catch and automatic shot prevention if incorrectly installed onto a rifle. Uses VOG-25 grenades.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$369" name="st_grenade_launcher_m203">
+      <segment state="translated">
+        <source>st_grenade_launcher_m203</source>
+        <target>
+        <text>M203</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$370" name="st_grenade_launcher_m203_descr">
+      <segment state="translated">
+        <source>st_grenade_launcher_m203_descr</source>
+        <target>
+        <text>A modified M203 grenade launcher that has been shortened by three inches, attached to weapons by means of a Picatinny Rail. Thanks to a changed mount, this grenade launcher is widely used around the world.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$371" name="st_grenade_launcher_ag36">
+      <segment state="translated">
+        <source>st_grenade_launcher_ag36</source>
+        <target>
+        <text>H&amp;K AG36</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$372" name="st_grenade_launcher_ag36_descr">
+      <segment state="translated">
+        <source>st_grenade_launcher_ag36_descr</source>
+        <target>
+        <text>The AG36 is a single-shot 40 mm grenade launcher that operates on the High-Low System and was designed primarily for installation on the G36 assault rifle, designed by the German weapons manufacturing company Heckler and Koch.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$373" name="st_grenade_rgd5">
+      <segment state="translated">
+        <source>st_grenade_rgd5</source>
+        <target>
+        <text>RGD-5 grenade</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$374" name="st_grenade_rgd5_descr">
+      <segment state="translated">
+        <source>st_grenade_rgd5_descr</source>
+        <target>
+        <text>An offensive hand grenade with a small kill zone of 5 meters. Often used by stalkers to "smoke out" mutants due to its relatively low cost.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$375" name="st_grenade_smoke">
+      <segment state="translated">
+        <source>st_grenade_smoke</source>
+        <target>
+        <text>Smoke grenade</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$376" name="st_grenade_smoke_descr">
+      <segment state="translated">
+        <source>st_grenade_smoke_descr</source>
+        <target>
+        <text>A hand smoke grenade. Used to put up smoke screens. Once the grenade is thrown it takes 10 seconds for the smoke screen to expand.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$377" name="st_wpn_abakan">
+      <segment state="translated">
+        <source>st_wpn_abakan</source>
+        <target>
+        <text>AN-94</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$378" name="st_wpn_ak74">
+      <segment state="translated">
+        <source>st_wpn_ak74</source>
+        <target>
+        <text>AK74</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$379" name="st_wpn_ak74u">
+      <segment state="translated">
+        <source>st_wpn_ak74u</source>
+        <target>
+        <text>AKS-74U</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$380" name="st_wpn_beretta">
+      <segment state="translated">
+        <source>st_wpn_beretta</source>
+        <target>
+        <text>Beretta 92f</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$381" name="st_wpn_bm16">
+      <segment state="translated">
+        <source>st_wpn_bm16</source>
+        <target>
+        <text>Sawed-off TOZ-66</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$382" name="st_wpn_bm16_descr">
+      <segment state="translated">
+        <source>st_wpn_bm16_descr</source>
+        <target>
+        <text>A TOZ-66 with both barrels sawn off above the hand grip, making it lighter and more compact. One of the most popular weapons among bandits due to its ease of concealment and extreme effectiveness in close combat.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$383" name="st_wpn_bm16_full">
+      <segment state="translated">
+        <source>st_wpn_bm16_full</source>
+        <target>
+        <text>TOZ-66</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$384" name="st_wpn_bm16_full_descr">
+      <segment state="translated">
+        <source>st_wpn_bm16_full_descr</source>
+        <target>
+        <text>Produced between 1968 and 1974, the TOZ-66 is a "side by side" double-barrel shotgun intended for hunting.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$385" name="st_wpn_toz34_so">
+      <segment state="translated">
+        <source>st_wpn_toz34_so</source>
+        <target>
+        <text>Sawed-off TOZ-34</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$386" name="st_wpn_toz34_so_descr">
+      <segment state="translated">
+        <source>st_wpn_toz34_so_descr</source>
+        <target>
+        <text>A TOZ-34 with both barrels sawn off above the hand grip, making it lighter and more compact. One of the most popular weapons among bandits due to its ease of concealment and extreme effectiveness in close combat.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$387" name="st_wpn_colt1911">
+      <segment state="translated">
+        <source>st_wpn_colt1911</source>
+        <target>
+        <text>M1911A1</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$388" name="st_wpn_desert_eagle_nimble">
+      <segment state="translated">
+        <source>st_wpn_desert_eagle_nimble</source>
+        <target>
+        <text>Steppe Eagle</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$389" name="st_wpn_desert_eagle_nimble_descr">
+      <segment state="translated">
+        <source>st_wpn_desert_eagle_nimble_descr</source>
+        <target>
+        <text>A hand-made pistol based on the Desert Eagle design. The components are finely tuned to achieve incredible accuracy for a handgun of this type.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$390" name="st_wpn_eagle">
+      <segment state="translated">
+        <source>st_wpn_eagle</source>
+        <target>
+        <text>Desert Eagle .50</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$391" name="st_wpn_desert_eagle_357">
+      <segment state="translated">
+        <source>st_wpn_desert_eagle_357</source>
+        <target>
+        <text>Desert Eagle .357</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$392" name="st_wpn_fn2000">
+      <segment state="translated">
+        <source>st_wpn_fn2000</source>
+        <target>
+        <text>FN F2000 Tactical</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$393" name="st_wpn_fort">
+      <segment state="translated">
+        <source>st_wpn_fort</source>
+        <target>
+        <text>Fort-12</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$394" name="st_wpn_g36">
+      <segment state="translated">
+        <source>st_wpn_g36</source>
+        <target>
+        <text>H&amp;K G36</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$395" name="st_wpn_gauss">
+      <segment state="translated">
+        <source>st_wpn_gauss</source>
+        <target>
+        <text>Gauss rifle</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$396" name="st_wpn_groza">
+      <segment state="translated">
+        <source>st_wpn_groza</source>
+        <target>
+        <text>Groza-4</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$397" name="st_wpn_groza1">
+      <segment state="translated">
+        <source>st_wpn_groza1</source>
+        <target>
+        <text>Groza-1</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$398" name="st_wpn_groza_descr">
+      <segment state="translated">
+        <source>st_wpn_groza_descr</source>
+        <target>
+        <text>This assault rifle combined with a grenade launcher, which is similar to the AKM series, was specially developed for rapid response units. The main differences are its 9x39 caliber ammunition, bullpup layout and extensive configuration options. This weapon is highly valued by military stalkers due to its ability to kill enemies wearing body armor behind improvised cover at a distance during urban combat, as well as its excellent stopping power.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$399" name="st_wpn_groza1_descr">
+      <segment state="translated">
+        <source>st_wpn_groza1_descr</source>
+        <target>
+        <text>This assault rifle combined with a grenade launcher, which is similar to the AKM series, was specially developed for rapid response units. The main differences are its 7.62x39 caliber ammunition, bullpup layout and extensive configuration options. This weapon is highly valued by military stalkers due to its ability to kill enemies wearing body armor behind improvised cover at a distance during urban combat, as well as its excellent stopping power.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$400" name="st_wpn_groza_nimble">
+      <segment state="translated">
+        <source>st_wpn_groza_nimble</source>
+        <target>
+        <text>Storm</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$401" name="st_wpn_groza_nimble_descr">
+      <segment state="translated">
+        <source>st_wpn_groza_nimble_descr</source>
+        <target>
+        <text>An experimental version of an assault rifle and grenade launcher system, a Russian modification of the standard Tunder S14, this weapon was specially designed for units operating in the Zone. Notable for its increased magazine capacity.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$402" name="st_wpn_hpsa">
+      <segment state="translated">
+        <source>st_wpn_hpsa</source>
+        <target>
+        <text>Browing HiPower</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$403" name="st_wpn_hpsa_descr">
+      <segment state="translated">
+        <source>st_wpn_hpsa_descr</source>
+        <target>
+        <text>A modified model of a pistol from the first half of the 20th century, which is as reliable, powerful and accurate as the original. Pistols of this series deserve their reputation as one of the best handguns of the 20th century and are in great demand in the Zone.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$404" name="st_wpn_l85">
+      <segment state="translated">
+        <source>st_wpn_l85</source>
+        <target>
+        <text>L85A2</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$405" name="st_wpn_lr300">
+      <segment state="translated">
+        <source>st_wpn_lr300</source>
+        <target>
+        <text>LR-300</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$406" name="st_wpn_lr680">
+      <segment state="translated">
+        <source>st_wpn_lr680</source>
+        <target>
+        <text>LR-680</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$407" name="st_wpn_mp5">
+      <segment state="translated">
+        <source>st_wpn_mp5</source>
+        <target>
+        <text>H&amp;K MP5A3</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$408" name="st_wpn_mp5sd_nimble">
+      <segment state="translated">
+        <source>st_wpn_mp5sd_nimble</source>
+        <target>
+        <text>Whisperer</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$409" name="st_wpn_mp5sd_nimble_descr">
+      <segment state="translated">
+        <source>st_wpn_mp5sd_nimble_descr</source>
+        <target>
+        <text>Rare variant of the MP5SD chambered in .45 ACP. In 1974 H&amp;K initiated design work on a sound-suppressed variant of the MP5, designated the MP5SD. Which features an integral but detachable aluminium sound suppressor and a lightweight bolt. The suppressor itself is divided into two stages; the initial segment surrounding the ported barrel serves as an expansion chamber for the propellant gases, reducing gas pressure to slow down the acceleration of the projectile. The second, decompression stage occupies the remaining length of the suppressor tube and contains a stamped metal helix separator with several compartments which increase the gas volume and decrease its temperature, deflecting the gases as they exit the muzzle, so muffling the exit report. The bullet leaves the muzzle at subsonic velocity, so it does not generate a sonic shock wave in flight. </text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$410" name="st_wpn_mp5sd">
+      <segment state="translated">
+        <source>st_wpn_mp5sd</source>
+        <target>
+        <text>H&amp;K MP5SD</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$411" name="st_wpn_mp5_descr">
+      <segment state="translated">
+        <source>st_wpn_mp5_descr</source>
+        <target>
+        <text>This submachine gun has gained popularity around the world thanks to its reliability, ease of use and accuracy. Over the last few decades the MP5 was in service with special armed forces and police units worldwide. Not surprisingly, having flooded the global black markets, it eventually made its way to the Zone.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$412" name="st_wpn_mp5sd_descr">
+      <segment state="translated">
+        <source>st_wpn_mp5sd_descr</source>
+        <target>
+        <text>In 1974 H&amp;K initiated design work on a sound-suppressed variant of the MP5, designated the MP5SD. Which features an integral but detachable aluminium sound suppressor and a lightweight bolt. The suppressor itself is divided into two stages; the initial segment surrounding the ported barrel serves as an expansion chamber for the propellant gases, reducing gas pressure to slow down the acceleration of the projectile. The second, decompression stage occupies the remaining length of the suppressor tube and contains a stamped metal helix separator with several compartments which increase the gas volume and decrease its temperature, deflecting the gases as they exit the muzzle, so muffling the exit report. The bullet leaves the muzzle at subsonic velocity, so it does not generate a sonic shock wave in flight. </text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$413" name="st_wpn_mp5_nimble">
+      <segment state="translated">
+        <source>st_wpn_mp5_nimble</source>
+        <target>
+        <text>Chopper</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$414" name="st_wpn_mp5_nimble_descr">
+      <segment state="translated">
+        <source>st_wpn_mp5_nimble_descr</source>
+        <target>
+        <text>An H&amp;K MP5/10 submachine gun prototype chambered in 10mm Auto. Designed as a next generation close quarter combat weapon, it benefits from a higher caliber, rate of fire and accuracy.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$415" name="st_wpn_pb">
+      <segment state="translated">
+        <source>st_wpn_pb</source>
+        <target>
+        <text>Makarov PB</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$416" name="st_wpn_pkm_zulus">
+      <segment state="translated">
+        <source>st_wpn_pkm_zulus</source>
+        <target>
+        <text>Zulu's PKM</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$417" name="st_wpn_pkm_zulus_descr">
+      <segment state="translated">
+        <source>st_wpn_pkm_zulus_descr</source>
+        <target>
+        <text>This weapon was previously owned by Zulu. Its special features include an enlarged ammo box and a particularly reliable retracting mechanism design. The modifications meant an increase in the weapon's weight, but that wasn't a problem for the last owner.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$418" name="st_wpn_pm">
+      <segment state="translated">
+        <source>st_wpn_pm</source>
+        <target>
+        <text>Makarov PM</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$419" name="st_wpn_pmm_594d36a114b8198284048675b0a98628">
+      <segment state="translated">
+        <source>st_wpn_pmm</source>
+        <target>
+        <text>Makarov PMM</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$420" name="st_wpn_pm_actor">
+      <segment state="translated">
+        <source>st_wpn_pm_actor</source>
+        <target>
+        <text>Honorary PM</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$421" name="st_wpn_pm_actor_descr">
+      <segment state="translated">
+        <source>st_wpn_pm_actor_descr</source>
+        <target>
+        <text>An ancient PMm received by Degtyarev as a reward for "Successful execution of highly dangerous state orders, as well as valor and courage shown in the line of duty."</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$422" name="st_wpn_protecta">
+      <segment state="translated">
+        <source>st_wpn_protecta</source>
+        <target>
+        <text>Armsel Protecta</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$423" name="st_wpn_rg6">
+      <segment state="translated">
+        <source>st_wpn_rg6</source>
+        <target>
+        <text>RG-6</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$424" name="st_wpn_rg6_descr">
+      <segment state="translated">
+        <source>st_wpn_rg6_descr</source>
+        <target>
+        <text>This revolver-type grenade launcher uses six rifled front-loading barrels, identical to underbarrel launcher attachments. The drum is also front-loading. Widely used for rapid suppression of enemy firing positions and, when in the open, attacking defended fixed targets or fighting particularly tough monsters.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$425" name="st_wpn_rp">
+      <segment state="translated">
+        <source>st_wpn_rp</source>
+        <target>
+        <text>PKM</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$426" name="st_wpn_rp_descr">
+      <segment state="translated">
+        <source>st_wpn_rp_descr</source>
+        <target>
+        <text>This belt-fed machine gun is a portable modification with a complex two-stage feeding system. Despite its weight and low precision, this LMG has found admirers in the Zone. Used primarily to fight off outnumbering enemy forces during faction conflicts and clear out mutant lairs.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$427" name="st_wpn_rpg7">
+      <segment state="translated">
+        <source>st_wpn_rpg7</source>
+        <target>
+        <text>RPG-7</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$428" name="st_wpn_sig220">
+      <segment state="translated">
+        <source>st_wpn_sig220</source>
+        <target>
+        <text>SIG P220</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$429" name="st_wpn_sig220_nimble">
+      <segment state="translated">
+        <source>st_wpn_sig220_nimble</source>
+        <target>
+        <text>Wildcat</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$430" name="st_wpn_sig220_nimble_descr">
+      <segment state="translated">
+        <source>st_wpn_sig220_nimble_descr</source>
+        <target>
+        <text>A unique model of the SIG P220 handgun. Part of a small limited edition chambered in 10mm Auto. Made for an unidentified special forces unit. The model benefits from an increased magazine capacity, muzzle velocity, stopping power, a high durability steel barrel and an ultradurable polymer receiver.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$431" name="st_wpn_sig550">
+      <segment state="translated">
+        <source>st_wpn_sig550</source>
+        <target>
+        <text>SIG SG550</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$432" name="st_wpn_sig550_descr">
+      <segment state="translated">
+        <source>st_wpn_sig550_descr</source>
+        <target>
+        <text>A relatively new assault rifle that has quickly found admirers around the world, despite lacking a "trendy" design. Weapons of this series are one of the best in their class, renowned for their reliability, accuracy and ease of use.  Despite being relatively difficult to obtain in the Zone, this assault rifle is often ordered by experienced stalkers at considerable expense.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$433" name="st_wpn_sig550_strelok">
+      <segment state="translated">
+        <source>st_wpn_sig550_strelok</source>
+        <target>
+        <text>Strelok's SIG SG762</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$434" name="st_wpn_sig550_strelok_descr">
+      <segment state="translated">
+        <source>st_wpn_sig550_strelok_descr</source>
+        <target>
+        <text>A Swiss-made SIG SG762 assault rifle chambered for the more common 7.62x39 round. Although it is hardly new, it is clear that the previous owner took good care of it: the weapon has been taken apart and put back together, with every component fine-tuned for optimum performance, increasing stopping power. The letter "S" has been carved into the stock, along with 16 small notches.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$435" name="st_wpn_spas12">
+      <segment state="translated">
+        <source>st_wpn_spas12</source>
+        <target>
+        <text>SPAS-12</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$436" name="st_wpn_spas12_nimble">
+      <segment state="translated">
+        <source>st_wpn_spas12_nimble</source>
+        <target>
+        <text>Huntsman</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$437" name="st_wpn_spas12_nimble_descr">
+      <segment state="translated">
+        <source>st_wpn_spas12_nimble_descr</source>
+        <target>
+        <text>A tailor-made semi-automatic MP-153 shotgun that used to belong to Trapper. The hunter's only requirement in respect of his weapon was that it needed to kill predators in one shot. This philosophy was based on the belief that no matter how many people an animal had killed, it was still just an animal, and thus should not suffer..</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$438" name="st_wpn_svd">
+      <segment state="translated">
+        <source>st_wpn_svd</source>
+        <target>
+        <text>SVD</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$439" name="st_wpn_svd_descr">
+      <segment state="translated">
+        <source>st_wpn_svd_descr</source>
+        <target>
+        <text>An army sniper rifle that has been on the market for more than fifty years and has earned its reputation for exceptional reliability and ease of use. The SVDm-2 is normally used by the army to improve the effective range of its units, but stalkers respect this weapon for its armor-piercing properties, which allow it to penetrate mutant hide and army body armor.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$440" name="st_wpn_svd_nimble">
+      <segment state="translated">
+        <source>st_wpn_svd_nimble</source>
+        <target>
+        <text>Lynx</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$441" name="st_wpn_svd_nimble_descr">
+      <segment state="translated">
+        <source>st_wpn_svd_nimble_descr</source>
+        <target>
+        <text>A hand-assembled version of the SVD-M sniper rifle. No different in appearance, it nonetheless provides an ideal combination of accuracy and stopping power.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$442" name="st_wpn_svu">
+      <segment state="translated">
+        <source>st_wpn_svu</source>
+        <target>
+        <text>SVU</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$443" name="st_wpn_svu_nimble">
+      <segment state="translated">
+        <source>st_wpn_svu_nimble</source>
+        <target>
+        <text>SVU-A</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$444" name="st_wpn_svu_nimble_descr">
+      <segment state="translated">
+        <source>st_wpn_svu_nimble_descr</source>
+        <target>
+        <text>This shortened sniper rifle with an increase rate of fire is the next step in the evolution of the SVUmk-2 sniper rifle. This weapon used to belong to Max, the legendary guardian of Freedom.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$445" name="st_wpn_toz34">
+      <segment state="translated">
+        <source>st_wpn_toz34</source>
+        <target>
+        <text>TOZ-34</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$446" name="st_wpn_toz34_descr">
+      <segment state="translated">
+        <source>st_wpn_toz34_descr</source>
+        <target>
+        <text>This extremely common over-and-under hunting shotgun can offer better protection against mutants than a pistol, thanks to its accuracy and stopping power. Used mostly by rookies on the outskirts of the Zone.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$447" name="st_wpn_umirotvoritel">
+      <segment state="translated">
+        <source>st_wpn_umirotvoritel</source>
+        <target>
+        <text>Unidentified weapon</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$448" name="st_wpn_umirotvoritel_descr">
+      <segment state="translated">
+        <source>st_wpn_umirotvoritel_descr</source>
+        <target>
+        <text>An unknown weapon, the firing mechanism of which has not been established. The weapon appears faulty - squeezing the trigger doesn't do anything.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$449" name="st_wpn_usp">
+      <segment state="translated">
+        <source>st_wpn_usp</source>
+        <target>
+        <text>H&amp;K USP-45</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$450" name="st_wpn_usp_descr">
+      <segment state="translated">
+        <source>st_wpn_usp_descr</source>
+        <target>
+        <text>Impeccable reliability and durability combined with excellent accuracy are the main noteworthy features of this weapon. Its minor drawbacks include its considerable size, relatively high center of gravity and massive bolt, which make it difficult to conceal but do not outweigh the weapon's positive features. The weapon is especially popular with the Zone's veterans.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$451" name="st_wpn_usp_nimble">
+      <segment state="translated">
+        <source>st_wpn_usp_nimble</source>
+        <target>
+        <text>H&amp;K USP Match</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$452" name="st_wpn_usp_nimble_descr">
+      <segment state="translated">
+        <source>st_wpn_usp_nimble_descr</source>
+        <target>
+        <text>The barrel weight provides counterbalance to the weapon's recoil, greatly improving follow up target tracking. Used to belong to a mercenary called Wolfhound.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$453" name="st_wpn_val">
+      <segment state="translated">
+        <source>st_wpn_val</source>
+        <target>
+        <text>AS Val</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$454" name="st_wpn_vintorez">
+      <segment state="translated">
+        <source>st_wpn_vintorez</source>
+        <target>
+        <text>VSS 'Vintorez'</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$455" name="st_wpn_vintorez_descr">
+      <segment state="translated">
+        <source>st_wpn_vintorez_descr</source>
+        <target>
+        <text>A special military sniper rifle purpose-built for silent, flashless sniping during special operations where early detection of the shooter may be critical. The Vintar BC provides high armor-piercing capability and stopping power, as well as being equipped with an integrated sniper and optical scope. Highly rated by many stalkers despite its small magazine.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$456" name="st_wpn_vintorez_nimble">
+      <segment state="translated">
+        <source>st_wpn_vintorez_nimble</source>
+        <target>
+        <text>Tide</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$457" name="st_wpn_vintorez_nimble_descr">
+      <segment state="translated">
+        <source>st_wpn_vintorez_nimble_descr</source>
+        <target>
+        <text>A weapon made for military units on the basis of the silent sniper rifle. The rifle has higher stopping power than the Vintar BC, its predecessor, at the expense of its rate of fire, which allows the shooter to eliminate enemy forces one by one without revealing his position.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$458" name="st_wpn_walther">
+      <segment state="translated">
+        <source>st_wpn_walther</source>
+        <target>
+        <text>Walther P99</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$459" name="st_wpn_walther40">
+      <segment state="translated">
+        <source>st_wpn_walther40</source>
+        <target>
+        <text>Walther P99 .40 S&amp;W</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$460" name="st_wpn_wincheaster1300">
+      <segment state="translated">
+        <source>st_wpn_wincheaster1300</source>
+        <target>
+        <text>TOZ-194</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$461" name="st_wpn_wincheaster1300_descr">
+      <segment state="translated">
+        <source>st_wpn_wincheaster1300_descr</source>
+        <target>
+        <text>The TOZ-194 is a 12 Gauge, pump-action shotgun manufactured by the Tula Arms Plant. Designed during the last years of the Soviet Union, the manufacture of this firearm has started after its collapse, and since then it has gained a certain popularity within civilian shooters in Russia itself and in Europe, and is reported to be in use with some Russian Security forces.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$462" name="st_wpn_wincheaster1300_trapper">
+      <segment state="translated">
+        <source>st_wpn_wincheaster1300_trapper</source>
+        <target>
+        <text>KS-23M</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$463" name="st_wpn_wincheaster1300_trapper_descr">
+      <segment state="translated">
+        <source>st_wpn_wincheaster1300_trapper_descr</source>
+        <target>
+        <text>The KS-23 was designed in the 1970s for suppressing prison riots. It was created by TsNII-Tochmash, a key Russian weapons developer, for the Russian Ministry of Internal Affairs. The barrel for the KS-23 was made from 23mm anti-aircraft gun barrels that were rejected due to manufacturing flaws. These rejected barrels were deemed to be acceptable for the lower stress of firing slugs and less-lethal rounds, and thus were cut down in length for use as shotgun barrels.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$464" name="ammo-gauss_cardan">
+      <segment state="translated">
+        <source>ammo-gauss_cardan</source>
+        <target>
+        <text>Homemade batteries</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$465" name="st_addon_scope_susat_custom">
+      <segment state="translated">
+        <source>st_addon_scope_susat_custom</source>
+        <target>
+        <text>SUSAT Mera scope</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$466" name="st_wpn_abakan_descr">
+      <segment state="translated">
+        <source>st_wpn_abakan_descr</source>
+        <target>
+        <text>A modern assault rifle developed as a replacement for the ageing AKM 74/2. The main difference is its high speed 2-round burst firing mode, which allows two bullets to be fired at exactly the same spot on a target up to 100 meters away. This significantly increases the likelihood of hitting the target in comparison to the 1 round firing mode, which considerably improves kill potential, stopping power and armor piercing capability.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$467" name="st_wpn_ak74_descr">
+      <segment state="translated">
+        <source>st_wpn_ak74_descr</source>
+        <target>
+        <text>This weapon, designed in 1974, signaled the adoption of small caliber and low impulse rounds by Warsaw Pact countries. A descendant of the most popular assault rifle in the world, the AKM-74/2 has an even bigger muzzle brake, resulting in a reduction of what was already manageable recoil. This facilitates better accuracy and groupings, especially when fired in fast single shots or bursts. As before, the rifle is very simple and reliable.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$468" name="st_wpn_ak74u_descr">
+      <segment state="translated">
+        <source>st_wpn_ak74u_descr</source>
+        <target>
+        <text>Despite being similar to submachine guns in size, weight and tactical purpose, this weapon is classified as an assault rifle due to the fact that its internal mechanism is identical to that of the AKM 74/2. The weapon is notable for its mobility in close quarters and high armor-penetration capacity, while its drawbacks are its short effective range, despite the relatively long bullet range, a tendency to overheat and high ricochet propensity.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$469" name="st_wpn_colt1911_descr">
+      <segment state="translated">
+        <source>st_wpn_colt1911_descr</source>
+        <target>
+        <text>An improved version of a classic automatic pistol, which passed all the major armed conflicts of the 20th century with flying colors and entered the new millennium with confidence. Produced by dozens if not hundreds of arms manufacturers around the world in both standard and modified configurations. The weapon’s only drawback, its mediocre magazine capacity, is largely compensated by the hard-hitting ammo it uses.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$470" name="st_wpn_eagle_descr">
+      <segment state="translated">
+        <source>st_wpn_eagle_descr</source>
+        <target>
+        <text>The ultimate hand cannon - bulky, heavy and highly lethal. Developed as a specialized weapon for hunting medium-sized and large game, as well as for shooting competitions involving firing at steel body targets at distances over 50 meters. Its limited use in the Zone can be attributed to its price, size and weight, which are all double those of other pistols. Commonly found .50 AE and .357 Magnum and carried by experienced Bandits, Freedomers and Duty squad leaders.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$471" name="st_wpn_fn2000_descr">
+      <segment state="translated">
+        <source>st_wpn_fn2000_descr</source>
+        <target>
+        <text>The F2000 Tactical variant is similar to the standard model, but it lacks the optical sight, and comes instead with an extended top receiver MIL-STD-1913 rail with flip-up iron sights allowing for picatinny rail accessories to be fitted.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$472" name="st_wpn_fort_descr">
+      <segment state="translated">
+        <source>st_wpn_fort_descr</source>
+        <target>
+        <text>A Ukrainian-made pistol predominantly used by law enforcement organizations. Provides higher accuracy, better ergonomics and has a larger magazine than the PMm.  These pistols make it into the Zone in large numbers thanks to the sale of defective weapons, which suffer from technical miscalculations in early design models. Despite this, the pistol is in demand among stalkers thanks to its good combat characteristics.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$473" name="st_wpn_g36_descr">
+      <segment state="translated">
+        <source>st_wpn_g36_descr</source>
+        <target>
+        <text>A new addition to the Western-made assault rifle family, which differs significantly from previous models in the series built on an automatic foundation with a semi-open bolt assembly, this weapon is more like American automatic gas-operated assault rifles with a short-stroke gas piston system. These changes ensure that the rifle is a first-rate example of a modern weapon - lightweight, reliable and ergonomic.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$474" name="st_wpn_l85_descr">
+      <segment state="translated">
+        <source>st_wpn_l85_descr</source>
+        <target>
+        <text>This rifle’s considerable number of drawbacks caused most of these weapons to be modernized, with the retired stock making its way to the Zone via the black market. The rifle's main advantages are high single-shot accuracy and reliable upgrade technology. When the weapon is fired in bursts, its accuracy decreases significantly and the rifle's basic internal mechanisms become somewhat unreliable.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$475" name="st_wpn_lr300_descr">
+      <segment state="translated">
+        <source>st_wpn_lr300_descr</source>
+        <target>
+        <text>A new step in the development of this famous weapon family. The changes were made to the upper half of the steel construction comprising the barrel, gas tube and bolt assembly, reducing the weapon’s weight, improving ergonomics and its gas system. The weapon is highly accurate, although its propensity to catch dirt makes it a poor choice for the Zone’s difficult conditions.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$476" name="st_wpn_pb_descr">
+      <segment state="translated">
+        <source>st_wpn_pb_descr</source>
+        <target>
+        <text>This pistol was developed in the second half of the 20th century on the basis of the Makarov PM for use by special forces and scouting units. The pistol can be carried and kept concealed without the front part of the suppressor attached and for the silencer to be quickly deployed prior to use. The pistol may also be fired safely without the additional suppressor attachment, which may be important in critical situations. Without the front attachment, the pistol has a similar sound to the Makarov pistol.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$477" name="st_wpn_pm_descr">
+      <segment state="translated">
+        <source>st_wpn_pm_descr</source>
+        <target>
+        <text>This Soviet legacy is the most common pistol in the Zone and is one of the best compact self-defense handguns available. It is small, highly reliable, easy to use and maintain in working order. It also suffers from several drawbacks, including its short range, low firing accuracy and poor stopping power, while also losing out to modern pistols in its class in terms of weight and magazine size.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$478" name="st_wpn_protecta_descr">
+      <segment state="translated">
+        <source>st_wpn_protecta_descr</source>
+        <target>
+        <text>A smoothbore combat revolver-type shotgun intended to provide extreme firepower for militarized units. The weapon benefits from a large magazine and a high effective rate of fire, but its bulkiness and considerable weight, combined with a long reload time, are the price to be paid for these advantages. Rare in the Zone and is used primarily to clear closed spaces of mutants.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$479" name="st_wpn_rpg7_descr">
+      <segment state="translated">
+        <source>st_wpn_rpg7_descr</source>
+        <target>
+        <text>This grenade launcher from the 1960s made its way into the Zone from army depots. The weapon is a smoothbore single-shot recoilless launch system with an open-rear tube. Comes with a PGO-7 x2.7 optical scope. Although its huge size and weight make it an unlikely choice for stalkers, given its huge destructive power and ease of use, it has found admirers in the Zone.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$480" name="st_wpn_sig220_descr">
+      <segment state="translated">
+        <source>st_wpn_sig220_descr</source>
+        <target>
+        <text>The only remaining mass produced model of a globally renowned pistol, this weapon has earned a reputation for its excellent ergonomics and accuracy, and while its magazine is relatively small, it benefits from powerful ammo and a mechanism that functions like a Swiss watch. Some believe the SIP-t M200 to be the best mass produced .45ACP caliber handgun there is and it has certainly got a following among experienced stalkers and mercenaries.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$481" name="st_wpn_spas12_descr">
+      <segment state="translated">
+        <source>st_wpn_spas12_descr</source>
+        <target>
+        <text>This special purpose smoothbore automatic shotgun was designed in the second half of the 20th century and comes with pump-action and self-cocking firing modes. Used as an all-purpose weapon by the police and assault troops. Notable for its reliability and tactical flexibility. Despite its large weight, complex mechanism and considerable cost it is in demand in the Zone due to its effectiveness against mutants.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$482" name="st_wpn_svu_descr">
+      <segment state="translated">
+        <source>st_wpn_svu_descr</source>
+        <target>
+        <text>A modernized version of the SVDm-2 sniper rifle in a compact bullpup design made on the order of rapid response forces. It allows faster precision fire and is considerably lighter, while its single shot firing accuracy at short and medium range is similar to that of its predecessor. These qualities have earned it the admiration of countless stalkers.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$483" name="st_wpn_val_descr">
+      <segment state="translated">
+        <source>st_wpn_val_descr</source>
+        <target>
+        <text>A modified version of the silent Vintar BC sniper rifle, this assault rifle was designed as a special forces weapon. The rifle’s primary purpose is effective fire against enemies employing modern personal protection equipment without disclosing the shooter’s location. Thanks to its integrated silencer and 9x39 caliber round with a heavy subsonic bullet, the weapon’s noise and muzzle flash have been reduced to a minimum.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$484" name="st_wpn_gauss_descr">
+      <segment state="translated">
+        <source>st_wpn_gauss_descr</source>
+        <target>
+        <text>A super-accurate hi-tech weapon known as item 62, this rifle was developed in secret laboratories located inside the Zone. The weapon operates by accelerating bullets to extremely high speeds using a system of electromagnets, which provides incredible stopping power with virtually no recoil.  The weapon is powered by using capsulated artifact fragments in the batteries.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$485" name="st_wpn_beretta_descr">
+      <segment state="translated">
+        <source>st_wpn_beretta_descr</source>
+        <target>
+        <text>Beretta 92f pistols enjoy the reputation of a relatively reliable, albeit somewhat cumbersome weapon, around the world. In service with armed forces and police across the ocean, as well as various military and law enforcement organizations worldwide.  The pistol is equally popular with members of the underworld, thanks to its powerful round and magazine capacity. Beretta 92f pistols found in the Zone are usually dated, probably from retired stock.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$486" name="st_wpn_walther_descr">
+      <segment state="translated">
+        <source>st_wpn_walther_descr</source>
+        <target>
+        <text>An excellent Western pistol known for its reliability, high capacity magazine and good accuracy, as well as being among the most ergonomic handguns in its class. One of the most widely used pistols in the Zone, both among professionals and rookies who can afford it.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$487" name="st_wpn_walther40_descr">
+      <segment state="translated">
+        <source>st_wpn_walther40_descr</source>
+        <target>
+        <text>An excellent Western pistol known for its reliability, high capacity magazine and good accuracy, as well as being among the most ergonomic handguns in its class. One of the most widely used pistols in the Zone, both among professionals and rookies who can afford it.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$488" name="ammo-gauss_descr">
+      <segment state="translated">
+        <source>ammo-gauss_descr</source>
+        <target>
+        <text>Batteries that use a capsulated fragment of the Flash artifact as their power source. Manufactured using hi-tech equipment.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$489" name="ammo-gauss_cardan_descr">
+      <segment state="translated">
+        <source>ammo-gauss_cardan_descr</source>
+        <target>
+        <text>These lower-capacity cells use capsulated fragments of the Flash artifact as their power source. Their lower capacity is due to makeshift production conditions and lack of specialized equipment.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$490" name="st_addon_scope_pso-1m2-01">
+      <segment state="translated">
+        <source>st_addon_scope_pso-1m2-01</source>
+        <target>
+        <text>PSO-1M2-01</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$491" name="st_addon_scope_pso-1m2-01_descr">
+      <segment state="translated">
+        <source>st_addon_scope_pso-1m2-01_descr</source>
+        <target>
+        <text>The PSO-1M2-O1 features an extremely effective and useful height-based rangefinder for dual use, with graduated scales for both standing and prone figure estimation. The 400 meter Simonov height based gradient (choke style) rangefinder has a chevron for use with the 9x39 caliber rifles.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$492" name="st_addon_scope_docter_sight">
+      <segment state="translated">
+        <source>st_addon_scope_docter_sight</source>
+        <target>
+        <text>DOCTER Sight</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$493" name="st_addon_scope_docter_sight_descr">
+      <segment state="translated">
+        <source>st_addon_scope_docter_sight_descr</source>
+        <target>
+        <text>Due to its light weight as well as compact pipeless design, these sights see wide spread use in hunting and for sport. Reliable performance, high optical power, attractive design and trouble-free operation even in extreme weather conditions makes DOCTER sight irreplaceable.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$494" name="st_addon_scope_ac10632">
+      <segment state="translated">
+        <source>st_addon_scope_ac10632</source>
+        <target>
+        <text>Barska ELECTRO SIGHT AC10632</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$495" name="st_addon_scope_ac10632_descr">
+      <segment state="translated">
+        <source>st_addon_scope_ac10632_descr</source>
+        <target>
+        <text>The Barska Electro Sight Multi Reticle Red Dot Sight AC10632 was developed in order to be the best product for anybody looking for a high quality sights.</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$496" name="st_addon_scope_1p78">
+      <segment state="translated">
+        <source>st_addon_scope_1p78</source>
+        <target>
+        <text>1P78 Scope</text>
+    </target>
+      </segment>
+    </unit>
+    <unit id="loco:$497" name="st_addon_scope_1p78_descr">
+      <segment state="translated">
+        <source>st_addon_scope_1p78_descr</source>
+        <target>
+        <text>A common Soviet made 1P78 scope that is side mounted on various AK pattern rifles.</text>
+    </target>
+      </segment>
+    </unit>
+  </file>
+</xliff>
